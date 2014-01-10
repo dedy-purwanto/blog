@@ -185,3 +185,9 @@ footer li {
 footer p {
   text-align: right;
 }
+
+article a{
+    color:#DB3E3E;
+    border-bottom:#999 1px dotted;
+
+}
