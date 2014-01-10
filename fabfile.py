@@ -10,3 +10,5 @@ def deploy():
     with lcd("build/"):
         local("git add .")
         local("git commit --all --message 'New build'")
+    local("git add build")
+    local("git commit --all --message 'New build'")
