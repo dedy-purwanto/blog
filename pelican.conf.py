@@ -37,10 +37,14 @@ THEME = 'notmyidea'
 
 PAGE_EXCLUDES = (
             'mytheme',
+            'build',
+            'externals',
         )
 
 ARTICLE_EXCLUDES = (
             'mytheme',
+            'build',
+            'externals',
         )
 
 #DISQUS_SITENAME = 'kecebongsoft'
