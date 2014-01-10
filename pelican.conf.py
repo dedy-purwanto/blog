@@ -36,15 +36,11 @@ FEED_DOMAIN = 'http://kecebongsoft.com'
 THEME = 'notmyidea'
 
 PAGE_EXCLUDES = (
-            'env',
-            'pelican-themes',
-            'posts',
+            'mytheme',
         )
 
 ARTICLE_EXCLUDES = (
-            'env',
-            'pelican-themes',
-            'pages',
+            'mytheme',
         )
 
 #DISQUS_SITENAME = 'kecebongsoft'
