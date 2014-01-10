@@ -9,4 +9,4 @@ Kantor saya menggunakan berbagai macam layanan Google selain GMail, dan account 
 
 Contohnya adalah Google Sites, tempat dimana kita bisa membuat halaman statik web. Ketika ingin memanage sebuah Site atas account yg lain, saya dihadapkan dengan sebuah login form yang pada dasarnya menyuruh saya logout.
 
-Ternyata ada trik sederhana melakukan switch account disini tanpa harus logout. Pertama, di Gmail, URL yang ditampilkan memiliki `/u/0/` di satu account, dan memiliki `/u/1/` di account lainnya, yang kedua, di login url sites.google.com ada parameter  `authuser` yang sama dengan pola tersebut, kita hanya perlu menggantinya dari `0` ke `1`, maka halaman akan redirect ke  account yang sesuai.  
+Ternyata ada trik sederhana melakukan switch account disini tanpa harus logout. Pertama, di Gmail, URL yang ditampilkan memiliki `/u/0/` di satu account, dan memiliki `/u/1/` di account lainnya, yang kedua, di login url sites.google.com ada parameter  `authuser` yang sama dengan pola tersebut, kita hanya perlu menggantinya dari `0` ke `1`, maka halaman akan redirect ke  account yang sesuai..
