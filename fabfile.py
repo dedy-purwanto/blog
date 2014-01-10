@@ -7,9 +7,11 @@ def build():
 def deploy():
     print "Deploying..\n"
     build()
+
     with lcd("build/"):
         local("git add .")
         local("git commit --all --message 'New build'")
-        local("push")
+        local("git push")
+
     local("git add build")
     local("git commit --all --message 'New build'")
