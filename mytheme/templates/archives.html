@@ -3,10 +3,9 @@
 <section id="content" class="body">
 <h1>Archives for {{ SITENAME }}</h1>
 
-<dl>
+<dl style='width:800px;'l>
 {% for article in dates %}
-    <dt>{{ article.locale_date }}</dt>
-    <dd><a href='{{ article.url }}'>{{ article.title }}</a></dd>
+<dd><a href='{{ article.url }}'>{{ article.title }}</a>&nbsp;&nbsp;<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></dd>
 {% endfor %}
 </dl>
 </section>

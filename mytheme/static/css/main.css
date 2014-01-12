@@ -12,11 +12,11 @@
 body {
   background: #fff;
   color: #333;
-  font: 20px Hoefler Text, bodyfont, serif;
+  font-size: 15px;
   font-family:"ff-tisa-web-pro","Georgia","Times New Roman",serif;
   line-height: 30px;
-  max-width: 30em;
-  margin: 60px 14px 0 64px;
+  max-width: 40em;
+  margin: 60px 14px 0 150px;
 }
 
 /* line 22, ../../compass/src/main.scss */
@@ -25,6 +25,8 @@ h1 {
   font-weight: normal;
   line-height: 26px;
   margin-bottom: 0;
+  font-weight:200;
+  font-family:museo-slab;
 }
 
 
@@ -90,7 +92,7 @@ p.caption {
 
 /* line 74, ../../compass/src/main.scss */
 a {
-  border-bottom: #999 1px solid;
+  border-bottom: #999 1px dotted;
   color: #303030;
   text-decoration: none;
 }

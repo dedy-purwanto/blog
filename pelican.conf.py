@@ -5,7 +5,7 @@
 
 AUTHOR = u"Dedi Purwanto"
 SITENAME = u"Dedi Purwanto"
-SITEURL = ''
+SITEURL = 'http://localhost:9000/'
 SITETAGLINE = u""
 FOOTERTEXT = u"&copy; Dedi Purwanto. "
 
@@ -49,5 +49,5 @@ ARTICLE_EXCLUDES = (
 
 #DISQUS_SITENAME = 'kecebongsoft'
 THEME = 'mytheme'
-GITHUB_URL = 'https://github.com/kecebongsoft'
+#GITHUB_URL = 'https://github.com/kecebongsoft'
 GOOGLE_ANALYTICS = 'UA-36468240-1'
