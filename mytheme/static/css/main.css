@@ -13,7 +13,7 @@ body {
   background: #fff;
   color: #333;
   font: 20px Hoefler Text, bodyfont, serif;
-  font-family:HelveticaNeue-Light, HelveticaNeue, Helvetica, Arial, sans-serif;
+  font-family:"ff-tisa-web-pro","Georgia","Times New Roman",serif;
   line-height: 30px;
   max-width: 30em;
   margin: 60px 14px 0 64px;
@@ -22,7 +22,6 @@ body {
 /* line 22, ../../compass/src/main.scss */
 h1 {
   color: #333;
-  font-family: Helvetica, sans-serif;
   font-weight: normal;
   line-height: 26px;
   margin-bottom: 0;
@@ -32,29 +31,35 @@ h1 {
 /* line 31, ../../compass/src/main.scss */
 h2 {
   color: #666;
-  font-family: Helvetica, sans-serif;
   font-size: 18px;
   line-height: 15px;
   padding-top: 10px;
+  font-weight:200;
+  font-family:museo-slab;
 }
 
 /* line 39, ../../compass/src/main.scss */
 h3 {
-  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 1em;
   color: #000000;
+  font-weight:200;
+  font-family:museo-slab;
 }
 
 /* line 44, ../../compass/src/main.scss */
 h4 {
   color: #000000;
   font-size: 9pt;
+  font-weight:200;
+  font-family:museo-slab;
 }
 
 /* line 49, ../../compass/src/main.scss */
 time {
   color: #c0c0c0;
-  font-size: 16px;
+  font-size: 12px;
+  font-family: museo-slab;
+  font-weight:200;
 }
 
 /* line 54, ../../compass/src/main.scss */
@@ -71,10 +76,11 @@ blockquote {
 
 /* line 64, ../../compass/src/main.scss */
 p {
-  line-height: 30px;
+  line-height: 21px;
   margin:0px;
   margin-bottom: 20px;
   text-indent: 0px;
+  font-size:16px;
 }
 /* line 68, ../../compass/src/main.scss */
 p.caption {
@@ -133,22 +139,24 @@ header a {
 }
 /* line 111, ../../compass/src/main.scss */
 header a#page-title {
-  font-weight: bold;
-  font-family: HelveticaNeue-CondensedBold, HelveticaNeue, Helvetica, Arial, sans-serif;
-  font-size: 47px;
+  font-weight: normal;
+  font-size: 28px
 }
 header a#site-title {
-  font-weight: normal;
-  font-size:34px;
-  border-right: 4px solid #B8B8B8;
+  font-weight: 200;
+  font-size:22px;
+  font-family:museo-slab;
+  color:rgb(151,151,151);
+  /*border-right: 4px solid #B8B8B8;*/
 
 }
 
-header a.site-links {
-  font-size:18px;
+a.site-links {
+  font-size:14px;
   font-weight:normal;
   padding-left:12px;
-  color:#c0c0c0;
+  color:#c3c3c3;
+  font-family:museo-slab;
 
 }
 
@@ -167,15 +175,14 @@ header a.site-links {
 footer {
   background: #fff;
   color: #666;
-  font-family: helvetica, sans-serif;
   font-size: 13px;
-  letter-spacing: 4px;
   margin-left: 20px;
+  font-family:museo-slab;
+  font-weight:200;
 }
 /* line 131, ../../compass/src/main.scss */
 footer a {
-  border-bottom: none;
-  color: #c0c0c0;
+  border-bottom: 1px dotted;
 }
 /* line 135, ../../compass/src/main.scss */
 footer li {
@@ -189,5 +196,10 @@ footer p {
 article a{
     color:#DB3E3E;
     border-bottom:#999 1px dotted;
+
+}
+strong{
+    font-weight:500;
+    font-family:museo-slab;
 
 }
