@@ -32,7 +32,7 @@ h1 {
 
 /* line 31, ../../compass/src/main.scss */
 h2 {
-  color: #666;
+  color: #000;
   font-size: 18px;
   line-height: 15px;
   padding-top: 10px;
@@ -135,18 +135,23 @@ pre {
 header {
   padding-bottom: 0px;
 }
+header h1{
+    line-height:18px;
+    font-weight:200;
+
+}
 /* line 109, ../../compass/src/main.scss */
 header a {
   border-bottom: none;
 }
 /* line 111, ../../compass/src/main.scss */
 header a#page-title {
-  font-weight: normal;
+  font-weight: 200;
   font-size: 28px
 }
 header a#site-title {
   font-weight: 200;
-  font-size:22px;
+  font-size:19px;
   font-family:"Sanchez";
   color:rgb(151,151,151);
   /*border-right: 4px solid #B8B8B8;*/
@@ -154,11 +159,12 @@ header a#site-title {
 }
 
 a.site-links {
-  font-size:14px;
-  font-weight:normal;
-  padding-left:12px;
+  font-size:11px;
+  font-weight:200;
+  margin-right:6px;
   color:#c3c3c3;
   font-family:"Sanchez";
+  border-bottom:1px dotted #c0c0c0;
 
 }
 
