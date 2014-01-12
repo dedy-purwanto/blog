@@ -5,23 +5,14 @@ Saya salah satu pengguna berat keyboard shortcuts dan tiling windows untuk berba
 
 Sekitar setahun yang lalu, ketika saya masih pakai Ubuntu, saya menggunakan tmux setiap harinya sebagai terminal multiplexer, dan memang sebagian besar waktu saya di depan komputer dihabiskan oleh terminal, baik itu coding, file/server management, dll. Pada saat itu tmux benar-benar terasa manfaat dan ekstensibilitasnya. Namun seiring waktu ada beberapa hal yang cukup membuat saya frustasi:
 
-Tampilan tab yang kurang menarik
+_Tampilan tab yang kurang menarik_: Seringkali saya merasa terganggu ketika menggunakan multiple tab di tmux, tampilan tabnya tidak estatik (well, ubuntu sendiri native tabnya juga tidak begitu bagus). Tidak seperti orang lain yang mengganggap estetika tools tidak terlalu penting, bagi saya ini memberikan efek kenyamanan ketika menggunakan tools tersebut.
+
+_Degradasi performa_: Saya adalah pengguna berat split panes, dengan kebanyakan monitor wide-screens seperti sekarang, terminal dengan hanya satu pane membuat space menjadi mubazir. Masalahnya di tmux adalah ketika banyak pane yang dibuka dan berbagai verbose text mulai muncul, performanya mulai menurun, ini semakin buruk ketika saya menggunakan vim, saya harus mematikan beberapa config di vim hanya supaya terminal menjadi lebih cepat. Dan itupun masih dibawah harapan. Ini bukan murni salah tmux, dan dari hasil diskusi di stackexchange memang kesimpulannya [terminal emulator berjalan diatas OS seperti ubuntu tidak secepat terminal emulator yang lebih simple](http://unix.stackexchange.com/questions/41225/can-a-terminal-emulator-be-as-fast-as-tty-1-6).
+
+_Clipboard yang buruk_: Ya, banyak sekali artikel tentang setting clipboard tmux di internet, tapi jarang saya temukan sebuah setting yang langsung bisa digunakan pertama kali menginstall tmux. Sulit membuat tmux harmonis dengan native clipboard tanpa menggunakan tools tertentu.
+
+Berpindah ke iTerm2
 ------
-
-Seringkali saya merasa terganggu ketika menggunakan multiple tab di tmux, tampilan tabnya tidak estatik (well, ubuntu sendiri native tabnya juga tidak begitu bagus). Tidak seperti orang lain yang mengganggap estetika tools tidak terlalu penting, bagi saya ini memberikan efek kenyamanan ketika menggunakan tools tersebut.
-
-Degradasi performa
-------
-
-Saya adalah pengguna berat split panes, dengan kebanyakan monitor wide-screens seperti sekarang, terminal dengan hanya satu pane membuat space menjadi mubazir. Masalahnya di tmux adalah ketika banyak pane yang dibuka dan berbagai verbose text mulai muncul, performanya mulai menurun, ini semakin buruk ketika saya menggunakan vim, saya harus mematikan beberapa config di vim hanya supaya terminal menjadi lebih cepat. Dan itupun masih dibawah harapan. Ini bukan murni salah tmux, dan dari hasil diskusi di stackexchange memang kesimpulannya [terminal emulator berjalan diatas OS seperti ubuntu tidak secepat terminal emulator yang lebih simple](http://unix.stackexchange.com/questions/41225/can-a-terminal-emulator-be-as-fast-as-tty-1-6).
-
-Clipboard yang buruk
-------
-
-Ya, banyak sekali artikel tentang setting clipboard tmux di internet, tapi jarang saya temukan sebuah setting yang langsung bisa digunakan pertama kali menginstall tmux. Sulit membuat tmux harmonis dengan native clipboard tanpa menggunakan tools tertentu.
-
-**Berpindah ke iTerm2**
-
 Ketika mulai menggunakan OSX, saya mulai berpindah ke iTerm2, aplikasi terminal tersohor di OSX, sejauh ini iTerm2 sangat nyaman digunakan, dan berhasil menutupi semua kekurangan yang saya tulis diatas. Tampilan tab sudah diganti dengan native OSX tab, kemudian performa sudah jauh lebih baik karena split pane yang ada di iTerm2 adalah terminal yang benar-benar berbeda, bukan emulasi dengan operasi blit. Juga clipboard sudah jauh lebih baik disini, meskipun belum sempurna.
 
 Salah satu fitur iTerm2 (dengan kontribusi oleh OSX) adalah ketika full screen, tab pane akan disembunyikan dan hanya akan muncul ketika kita menekan tombol command selama beberapa detik, berpindah antar tab bisa dilakukan tanpa harus memunculnya tab pane.
