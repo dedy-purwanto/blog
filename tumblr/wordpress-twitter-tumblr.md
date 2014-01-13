@@ -1,5 +1,4 @@
 title:Wordpress, Twitter & Tumblr
 date:2010-11-21 19:58:28
-status:draft
 
 <p>Jadi belakangan ini lagi nyoba cari beberapa web service yang bisa dipakai untuk tulisan serius, junk, dan short-post. Untuk tulisan serius, pilihan jatuh ke wordpress. Karena banyak sekali fitur advance blogging di wordpress seperti statistics dan kemampuan untuk attach source code, sedangkan kalau pakai fitur Notes di FB, selain terbatas, juga sifatnya ekslusif untuk jaringan pertemanan saja (tidak bisa ditangkap crawler). Kemudan untuk junk, jatuh kepada twitter, it's plain and simple. Lalu yang terakhir adalah short-post, dimana tulisannya nggak terlalu panjang seperti di wordpress, dan tidak terlalu limited seperti twitter, juga harus benar-benar simple, akhirnya terpilihlah tumblr. Nggak perlu ngisi title, tags, and all those shits. Benar-benar handy untuk ngepost apapun yang sifatnya bukan junk dan nggak terlalu panjang.</p> 
