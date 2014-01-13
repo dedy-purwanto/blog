@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a WordPress eXtended RSS file generated from your Tumblr posts. -->
+<!-- It contains information about your blog's posts, comments, and categories. -->
+<!-- You may use this file to transfer that content from one site to another. -->
+<!-- This file is not intended to serve as a complete backup of your blog. -->
+
+<!-- To import this information into a WordPress blog follow these steps. -->
+<!-- 1. Log into that blog as an administrator. -->
+<!-- 2. Go to Manage: Import in the blog's admin panels. -->
+<!-- 3. Choose "WordPress" from the list. -->
+<!-- 4. Upload this file using the form provided on that page. -->
+<!-- 5. You will first be asked to map the authors in this export file to users -->
+<!--    on the blog.  For each author, you may choose to map to an -->
+<!--    existing user on the blog or to create a new user -->
+<!-- 6. WordPress will then import each of the posts, comments, and categories -->
+<!--    contained in this file into your blog -->
+
+<!-- generator="Tumblr2WordPress/0.4" created="2014-01-13 00:28"-->
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.0/"
+>
+<channel>
+  <title>Myself &amp; life's remnants</title>
+  <link>http://kecebongsoft.tumblr.com/</link>
+  <description>&lt;p&gt;
+&lt;a href='http://twitter.com/kecebongsoft'&gt;@kecebongsoft&lt;/a&gt;&amp;nbsp;
+&lt;a href='http://gplus.to/dedi'&gt;+Dedi Purwanto&lt;/a&gt;
+&lt;/p&gt;</description>
+  <pubDate>Mon, 13 Jan 2014 00:28:07 -0800</pubDate>
+  <generator>http://Tumblr2WordPress/0.4(tumblr2wordpress.benapps.net)</generator>
+  <language>en</language>
+  <wp:wxr_version>1.0</wp:wxr_version>
+  <wp:base_site_url>http://kecebongsoft.tumblr.com/</wp:base_site_url>
+  <wp:base_blog_url>http://kecebongsoft.tumblr.com/</wp:base_blog_url>
+  <wp:category>
+    <wp:category_nicename>uncategorized</wp:category_nicename>
+    <wp:category_parent></wp:category_parent>
+    <wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+  </wp:category>
+
+	<wp:tag><wp:tag_slug>life</wp:tag_slug><wp:tag_name><![CDATA[life]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>opinion</wp:tag_slug><wp:tag_name><![CDATA[opinion]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>gathering</wp:tag_slug><wp:tag_name><![CDATA[gathering]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>vim</wp:tag_slug><wp:tag_name><![CDATA[vim]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>facebook</wp:tag_slug><wp:tag_name><![CDATA[facebook]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>yahoo</wp:tag_slug><wp:tag_name><![CDATA[yahoo]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>google</wp:tag_slug><wp:tag_name><![CDATA[google+]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>twitter</wp:tag_slug><wp:tag_name><![CDATA[twitter]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>gmail</wp:tag_slug><wp:tag_name><![CDATA[gmail]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>gvim</wp:tag_slug><wp:tag_name><![CDATA[gvim]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>ubuntu</wp:tag_slug><wp:tag_name><![CDATA[ubuntu]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>gtk</wp:tag_slug><wp:tag_name><![CDATA[gtk]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>theme</wp:tag_slug><wp:tag_name><![CDATA[theme]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>gray</wp:tag_slug><wp:tag_name><![CDATA[gray]]></wp:tag_name></wp:tag>
+	<wp:tag><wp:tag_slug>vimrc</wp:tag_slug><wp:tag_name><![CDATA[vimrc]]></wp:tag_name></wp:tag>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/40752709043</link>
+    <pubDate>Thu, 17 Jan 2013 16:49:47 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[link]]></category>
+		<category domain="category" nicename="link"><![CDATA[link]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/40752709043</guid>
+    <!--<wp:post_id>40752709043</wp:post_id>-->
+    <wp:post_date>2013-01-17 0:49:47</wp:post_date>
+    <wp:post_date_gmt>2013-01-17 08:49:47</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Facebook launches free calling for all iPhone users in the US</title>
+    <description>
+  To make a call to another Messenger for iPhone user, all you need to do is open a conversation with that person, tap the &amp;#8220;i&amp;#8221; button in the top-right corner, and tap Free Call.
+
+
+</description>
+    <content:encoded><![CDATA[Link: <a href="http://www.theverge.com/2013/1/16/3883538/facebook-launches-free-calling-in-messenger-for-iphone-us">Facebook launches free calling for all iPhone users in the US</a>
+
+    <blockquote>
+  <p>To make a call to another Messenger for iPhone user, all you need to do is open a conversation with that person, tap the &#8220;i&#8221; button in the top-right corner, and tap Free Call.</p>
+</blockquote>
+
+<p></p>]]></content:encoded>
+    <wp:post_name>facebook-launches-free-calling-for-all-iphone-users-in-the-us</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/22895187817</link>
+    <pubDate>Sat, 12 May 2012 18:37:38 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/22895187817</guid>
+    <!--<wp:post_id>22895187817</wp:post_id>-->
+    <wp:post_date>2012-05-12 3:37:38</wp:post_date>
+    <wp:post_date_gmt>2012-05-12 10:37:38</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Dolphin Doll</title>
+    <description></description>
+    <content:encoded><![CDATA[<p align='center'>
+<a href="https://plus.google.com/105581558374023241765/posts/iTst8EABzqu"><img src="https://lh4.googleusercontent.com/-y0kxsLlL0Co/T648rWyJ-MI/AAAAAAAAAp4/8JhLe217aM8/s816/2012+-+1"></a></p>
+
+My girlfriend asked me to keep her dolphin doll while she's away. Now every time I look at it, I started to think why I bought her this in the first place.]]></content:encoded>
+    <wp:post_name>dolphin-doll</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/18493155315</link>
+    <pubDate>Wed, 29 Feb 2012 21:41:45 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/18493155315</guid>
+    <!--<wp:post_id>18493155315</wp:post_id>-->
+    <wp:post_date>2012-02-29 5:41:45</wp:post_date>
+    <wp:post_date_gmt>2012-02-29 13:41:45</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> Today I learned about <a href='http://en.wikipedia.org/wiki/Depressive_realism'>Depressive realism</a>. Something that describes me so well.
+
+    ]]></content:encoded>
+    <wp:post_name>today-i-learned-about-depressive-realism-something-that-describes-me-so-well</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/18126214179</link>
+    <pubDate>Thu, 23 Feb 2012 20:14:15 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/18126214179</guid>
+    <!--<wp:post_id>18126214179</wp:post_id>-->
+    <wp:post_date>2012-02-23 4:14:15</wp:post_date>
+    <wp:post_date_gmt>2012-02-23 12:14:15</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> at hard times like this, things always, somehow, goes easier than I thought it would be.
+
+    ]]></content:encoded>
+    <wp:post_name>at-hard-times-like-this-things-always-somehow-goes-easier-than-i-thought-it-would-be</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/18069628461</link>
+    <pubDate>Wed, 22 Feb 2012 22:15:48 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/18069628461</guid>
+    <!--<wp:post_id>18069628461</wp:post_id>-->
+    <wp:post_date>2012-02-22 6:15:48</wp:post_date>
+    <wp:post_date_gmt>2012-02-22 14:15:48</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> I'm not more than an average boy, sometimes I spaced out, looking at empty corners with thoughts, maybe that's why I love to wait for bus, or riding train, because that's the only time I usually able to have some thoughts, or maybe when I walk to get some lunch outside. Oh, and I do some computer stuff too.  
+>   
+> 
+
+    <a href='http://twitter.com/kecebongsoft'>Twitter</a> | <a href='http://gplus.to/dedi'>Google+</a>]]></content:encoded>
+    <wp:post_name>im-not-more-than-an-average-boy-sometimes-i-spaced-out-looking-at-empty-corners-with-thoughts-maybe-thats-why-i-love-to-wait-for-bus-or-riding-train-because-thats-the-only-time-i-usually-able-to-have-some-thoughts-or-maybe-when-i-walk-to-get-some-lunch-outside-oh-and-i-do-some-computer-stuff-too</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/18066343064</link>
+    <pubDate>Wed, 22 Feb 2012 19:54:20 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/18066343064</guid>
+    <!--<wp:post_id>18066343064</wp:post_id>-->
+    <wp:post_date>2012-02-22 3:54:20</wp:post_date>
+    <wp:post_date_gmt>2012-02-22 11:54:20</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> I'm glad that everyone have made this far happily
+
+    ]]></content:encoded>
+    <wp:post_name>im-glad-that-everyone-have-made-this-far-happily</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17949128073</link>
+    <pubDate>Mon, 20 Feb 2012 23:58:35 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17949128073</guid>
+    <!--<wp:post_id>17949128073</wp:post_id>-->
+    <wp:post_date>2012-02-20 7:58:35</wp:post_date>
+    <wp:post_date_gmt>2012-02-20 15:58:35</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> Today I learn about spam, ham, and eggs. Not a usual thing to discover, though.
+
+    <a href='http://en.wikipedia.org/wiki/Metasyntactic_variable#Python'>Metasyntactic</a>]]></content:encoded>
+    <wp:post_name>today-i-learn-about-spam-ham-and-eggs-not-a-usual-thing-to-discover-though</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17867132908</link>
+    <pubDate>Sun, 19 Feb 2012 13:07:46 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+		<category domain="tag"><![CDATA[life]]></category>
+		<category domain="tag" nicename="life"><![CDATA[life]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17867132908</guid>
+    <!--<wp:post_id>17867132908</wp:post_id>-->
+    <wp:post_date>2012-02-18 21:07:46</wp:post_date>
+    <wp:post_date_gmt>2012-02-19 05:07:46</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Accidentally threw my phone into water</title>
+    <description></description>
+    <content:encoded><![CDATA[As if I don't have enough record of carelessness with my Samsung Galaxy S2, dropped it thousands times, and have to praise the lord about how lucky I am that the phone still working fine. Today, I accidentally dropped it into a bucket full of water.
+
+Yes, you hear it right. The rain was heavy for the last to days, and I just found out the ceiling on my apartment is dripping water somewhere around 3AM, right onto my bed when I was sleeping. So I woke up that night, move my bed just a little bit away from the leak, and put a bucket above my floor just right beside my bed so it won't create mini-flood in the morning, and then I went back sleeping. But the story doesn't end happily.
+
+Somewhere around 4.30AM, my phone, which was on my desk, ringing, telling me there's an email coming. I took my phone from my desk and read what it was about, and then, put it on top of my pillow, and went back to sleep.
+
+About a while, I heard something dropping into the bucket of water, loud. Not a usual noise I would hear every night, so I woke up to find what it is, and saw my phone, with a screen on, diving to the deepest level of the bucket, the live wallpaper is glowing just like my eyes when I see that thing is swimming where even in the <a href="http://www.youtube.com/watch?v=KwgDN1Jss44">commercial it doesn't advice people to allow it</a>. 
+
+Half conscious, I jumped and grab my phone, realized it's still on, I shut it down, but keep the case closed, and went back sleep, planned have a further look in the morning. I hold it while I'm sleeping, and not realizing I pressed the power button once again, and turned it on. Only hours after that I realize it because it's warned me about the battery level is low.
+
+So I woke up, shut it down again, and open up the case, put it on a desk where sun light can reach.  Wait for few hours and turn it back on. It started to behave oddly, I put the charger but it doesn't recognize it, restart it few times, then only it recognize the charger I plugged in, but it keeps charging even when I pull the charger out.
+
+Also, Vlingo - SGS2 voice recognition software keeps popping out asking me what would I like to do. So I put the phone off few hours again, and it doesn't turned off, instead it's showing a battery charging screen with a warning about temperature increase, I freaked out.
+
+I hold a phone as well as try to smell something, but I sense nothing's wrong with it's physical condition. And just to make sure everything's fine, I plugged out the battery, and blow all the port with an old-unused hair dryer. Put it back on again.
+
+It doesn't turned on, it still showing the battery charging screen with a temperature warning. Shit.
+
+And then I tried few combination, such as putting the charger while the phone is off, and turn it back on, it works, but heck I'm sure something's wrong.
+
+My carelessness is again giving me a nightmare, the phone still have a warranty, though. So I'm gonna check whether the service center can work something out to fix it, and hopefully, they won't notice how the phone end up like this. ]]></content:encoded>
+    <wp:post_name>accidentally-threw-my-phone-into-water</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17608034562</link>
+    <pubDate>Tue, 14 Feb 2012 23:10:44 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+		<category domain="tag"><![CDATA[opinion]]></category>
+		<category domain="tag" nicename="opinion"><![CDATA[opinion]]></category>
+		<category domain="tag"><![CDATA[gathering]]></category>
+		<category domain="tag" nicename="gathering"><![CDATA[gathering]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17608034562</guid>
+    <!--<wp:post_id>17608034562</wp:post_id>-->
+    <wp:post_date>2012-02-14 7:10:44</wp:post_date>
+    <wp:post_date_gmt>2012-02-14 15:10:44</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Gw dan gathering</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>
+Waktu SMA dulu, meskpun udah suka ama programming, tapi gw tinggal di daerah yg ITnya belum terlalu rame, sehingga event-event kayak gathering, cuman bisa gw baca beritanya di pulau2 jawa, atau gathering lokal dengan tema yang umum, itupun jarang.
+<p>
+
+<p>
+Semenjak ada di Malaysia dan proffesionaly kerja sebagai programmer, gw mulai dapet kesempatan buat ikutan gathering programming yg sebenernya. Setelah ikut beberapa, gw, yg sebagai noob, nggak ngerasaain manfaat yg luar biasa setelah ikutan gath. Entah apa karna gw masih outcast, ga kenal sapa2, atau karna gw masih cupu, ga tau apa2. Entahlah.. tapi gw suka nanya diri sendiri kenapa gw ikutan gathering.
+<p>
+
+<p>
+Pengen kenal ma orang2 yg ikutan gathering?, kan gw bisa kenalan atau nyari mereka online, biar gimanapun geeks pasti online dan noticeable. Atau pengen tau tech trend terbaru?, udah menyebar online dimana2. Pengen ketemuan ama geeks2 ternama? bisa online (dan lebih elegan, imho).
+</p>
+
+<p>
+Setelah mulai aktif untuk punya pet projects, akhirnya gw punya satu alasan kenapa pengen ikutan gath: pengen ngenalin pet project gw ke geek2 yg lain secara langsung, sehingga ada jalur direct QA + iklan gratisan. Dan sepertinya gw bakal mutusin untuk ikut gath hanya jika gath-nya bener2 penting, misalkan kayak PyCon, atau ketika gw punya pet projects yg worth to mention, jadi gw bisa mention ketika ada sesi free talks / discussion.
+</p>
+
+<p>
+Alasan lain? hmm bolos kerja, free food, dan free merchandise kali yah :D
+</p>]]></content:encoded>
+    <wp:post_name>gw-dan-gathering</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17489150965</link>
+    <pubDate>Sun, 12 Feb 2012 23:25:45 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+		<category domain="tag"><![CDATA[vim]]></category>
+		<category domain="tag" nicename="vim"><![CDATA[vim]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17489150965</guid>
+    <!--<wp:post_id>17489150965</wp:post_id>-->
+    <wp:post_date>2012-02-12 7:25:45</wp:post_date>
+    <wp:post_date_gmt>2012-02-12 15:25:45</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Relocating swap and undo files on VIM</title>
+    <description></description>
+    <content:encoded><![CDATA[Every time I have a new repository, I always need to redefine the stuff that I need to ignore, more precisely, vim-related files such as swap and undo files. These things although they are really useful, but also make my working directory a bit dirty, redefine the same thing to ignore on my repository is also tedious. 
+
+It turns out I can relocate it on other folder, and at the same time, avoid filename collision. Using this configuration:
+
+<div class="gist">https://gist.github.com/1809045</div>]]></content:encoded>
+    <wp:post_name>relocating-swap-and-undo-files-on-vim</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17488895101</link>
+    <pubDate>Sun, 12 Feb 2012 23:19:48 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17488895101</guid>
+    <!--<wp:post_id>17488895101</wp:post_id>-->
+    <wp:post_date>2012-02-12 7:19:48</wp:post_date>
+    <wp:post_date_gmt>2012-02-12 15:19:48</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Indent / outdent like a GUI text editor with VIM </title>
+    <description></description>
+    <content:encoded><![CDATA[Or, precisely GVIM, or VIM will just do, I don't know, I think it should also work on VIM (tried it on SSH last time and it works).
+
+So with this you can visual block lines of codes, and press TAB to indent it, and SHIFT+TAB to outdent it, just like what you usually do on GUI text editor like Gedit or others:
+
+<div class="gist">https://gist.github.com/1809013</div>
+
+So what does it do?, it simply indent/outdent a code on a visual mode (<strong>&lt;</strong>/<strong>&gt;</strong>). But by default, visual mode will go back to normal mode after indenting/outdenting, so what we need to do is to back to visual mode and reselect our last selection, this is done by <strong>gv</strong>.]]></content:encoded>
+    <wp:post_name>indent-outdent-like-a-gui-text-editor-with-vim</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/17488324813</link>
+    <pubDate>Sun, 12 Feb 2012 23:05:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/17488324813</guid>
+    <!--<wp:post_id>17488324813</wp:post_id>-->
+    <wp:post_date>2012-02-12 7:05:00</wp:post_date>
+    <wp:post_date_gmt>2012-02-12 15:05:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>10FastFinger hack</title>
+    <description></description>
+    <content:encoded><![CDATA[This is an old gist, I was simply playing with 10FastFinger and wondering how the game works. The gameplay is that you are required to type as fast as you can, there will be sentences that you need to re-type. Knowing that there are existing sentences, I was thinking to grab it and make the computer type itself. So here is the gist
+<div class="gist">https://gist.github.com/1510198</div>
+
+And here is one of the sample output:
+
+<a href="http://filebin.gamedevid.org/v/100vx/"><img src="http://media.tumblr.com/tumblr_lzacrw6Sw71qajazg.png" /></a>]]></content:encoded>
+    <wp:post_name>10fastfinger-hack</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/14764961228</link>
+    <pubDate>Sun, 25 Dec 2011 21:31:21 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/14764961228</guid>
+    <!--<wp:post_id>14764961228</wp:post_id>-->
+    <wp:post_date>2011-12-25 5:31:21</wp:post_date>
+    <wp:post_date_gmt>2011-12-25 13:31:21</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> There were times when I feel so burden and weak, talking to my mom and dad never fails to make me strong again, even though we just talked about everything unrelated to my problem.
+
+    ]]></content:encoded>
+    <wp:post_name>there-were-times-when-i-feel-so-burden-and-weak-talking-to-my-mom-and-dad-never-fails-to-make-me-strong-again-even-though-we-just-talked-about-everything-unrelated-to-my-problem</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/14735998704</link>
+    <pubDate>Sun, 25 Dec 2011 04:26:19 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/14735998704</guid>
+    <!--<wp:post_id>14735998704</wp:post_id>-->
+    <wp:post_date>2011-12-24 12:26:19</wp:post_date>
+    <wp:post_date_gmt>2011-12-24 20:26:19</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> times are like a big and deep ocean, we set a sail and took someone with us, some of us wonder where would the sea take them to, and there are people who just let it flow.
+
+    ]]></content:encoded>
+    <wp:post_name>times-are-like-a-big-and-deep-ocean-we-set-a-sail-and-took-someone-with-us-some-of-us-wonder-where-would-the-sea-take-them-to-and-there-are-people-who-just-let-it-flow</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/14735443016</link>
+    <pubDate>Sun, 25 Dec 2011 04:14:02 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[video]]></category>
+		<category domain="category" nicename="video"><![CDATA[video]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/14735443016</guid>
+    <!--<wp:post_id>14735443016</wp:post_id>-->
+    <wp:post_date>2011-12-24 12:14:02</wp:post_date>
+    <wp:post_date_gmt>2011-12-24 20:14:02</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[
+              <iframe width="400" height="225" src="http://www.youtube.com/embed/yaAhxg4Lz0A?wmode=transparent&autohide=1&egm=0&hd=1&iv_load_policy=3&modestbranding=1&rel=0&showinfo=0&showsearch=0" frameborder="0" allowfullscreen></iframe>                    ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/14734671671</link>
+    <pubDate>Sun, 25 Dec 2011 03:57:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[quote]]></category>
+		<category domain="category" nicename="quote"><![CDATA[quote]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/14734671671</guid>
+    <!--<wp:post_id>14734671671</wp:post_id>-->
+    <wp:post_date>2011-12-24 11:57:00</wp:post_date>
+    <wp:post_date_gmt>2011-12-24 19:57:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[> I drew a line on a sand once, and then it came the time where those were stripped away by the ashes of the sea. I can still catch the glimpse of it although times have brought it away from me into the ocean. Memories, life\'s remnants, the pieces of my life that dwells inside, form scars and thought me of every lesson I know today.
+
+    ]]></content:encoded>
+    <wp:post_name>i-drew-a-line-on-a-sand-once-and-then-it-came-the-time-where-those-were-stripped-away-by-the-ashes-of-the-sea-i-can-still-catch-the-glimpse-of-it-although-times-have-brought-it-away-from-me-into-the-ocean-memories-lifes-remnants-the-pieces-of-my-life-that-dwells-inside-form-scars-and-thought-me-of-every-lesson-i-know-today</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/11864596823</link>
+    <pubDate>Mon, 24 Oct 2011 22:29:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+		<category domain="tag"><![CDATA[facebook]]></category>
+		<category domain="tag" nicename="facebook"><![CDATA[facebook]]></category>
+		<category domain="tag"><![CDATA[yahoo]]></category>
+		<category domain="tag" nicename="yahoo"><![CDATA[yahoo]]></category>
+		<category domain="tag"><![CDATA[google+]]></category>
+		<category domain="tag" nicename="google"><![CDATA[google+]]></category>
+		<category domain="tag"><![CDATA[twitter]]></category>
+		<category domain="tag" nicename="twitter"><![CDATA[twitter]]></category>
+		<category domain="tag"><![CDATA[gmail]]></category>
+		<category domain="tag" nicename="gmail"><![CDATA[gmail]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/11864596823</guid>
+    <!--<wp:post_id>11864596823</wp:post_id>-->
+    <wp:post_date>2011-10-24 7:29:00</wp:post_date>
+    <wp:post_date_gmt>2011-10-24 14:29:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Bye bye Facebook, and Yahoo Mail</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>
+Udah belakangan ini nggak update facebook lagi, paling cuman komen status2 temen yg menarik aja. Udah males ama FB, dulu sempet mikir FB nggak bakal jadi another MySpace atau Friendster, ternyata salah besar. FB sekarang dipenuhin sampah2 orang jualan + orang2 yang alay nya minta ampun. Digigit semut dikit aja nangis di FB, baru selesai cucian piring aja langsung statusnya kayak orang abis mengarungi lautan : "hidup ini penuh cobaan". Dan paling banter soal cinta-cintaan yg sebenernya saya jg ngga peduli ini orang mo patah hati ato lagi kangen2an.
+</p>
+
+<p>
+Daripada ngurusi mental orang, ikut sok2 dewasa ngasih tau supaya jangan alay, mending saya nya yang cabut, pindah ke lingkungan yang sebenernya lebih terawat: Twitter dan Google+. Twitter karna banyak geek2 keren yang bisa di follow, dan pace nya cenderung cepat, jadi info2 yang sifatnya "breaking news" bisa dibaca disana, Google+ karna sistem circlenya yang bikin orang nggak sembarangan posting, serta lingkungannya diisi sama geek2 yang at least postingannya ga bakal alay.
+</p>
+
+<p>
+Another thing, udah saatnya ngebunuh account Yahoo Mail ini, meskipun udah jarang dipake, tapi masih aja ada incoming mail yg lumayan penting masuk kesana. At least udah berkurang dan bakal di matiin total segera, pindah ke GMail.
+</p><p>
+Jadi buat yg di FB, kalau ada message2 penting mending jangan via FB deh, ke Google+ saya aja (http://gplus.to/dedi) atau ke twitter @kecebongsoft, atau ke gmail kecebongsoft[at]gmail[dot]com.
+</p><p>
+]]></content:encoded>
+    <wp:post_name>bye-bye-facebook-and-yahoo-mail</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/11558259013</link>
+    <pubDate>Mon, 17 Oct 2011 11:15:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+		<category domain="tag"><![CDATA[gvim]]></category>
+		<category domain="tag" nicename="gvim"><![CDATA[gvim]]></category>
+		<category domain="tag"><![CDATA[ubuntu]]></category>
+		<category domain="tag" nicename="ubuntu"><![CDATA[ubuntu]]></category>
+		<category domain="tag"><![CDATA[gtk]]></category>
+		<category domain="tag" nicename="gtk"><![CDATA[gtk]]></category>
+		<category domain="tag"><![CDATA[theme]]></category>
+		<category domain="tag" nicename="theme"><![CDATA[theme]]></category>
+		<category domain="tag"><![CDATA[gray]]></category>
+		<category domain="tag" nicename="gray"><![CDATA[gray]]></category>
+		<category domain="tag"><![CDATA[vimrc]]></category>
+		<category domain="tag" nicename="vimrc"><![CDATA[vimrc]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/11558259013</guid>
+    <!--<wp:post_id>11558259013</wp:post_id>-->
+    <wp:post_date>2011-10-16 20:15:00</wp:post_date>
+    <wp:post_date_gmt>2011-10-17 03:15:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Changing &quot;gray area&quot; at the side of GVIM</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>
+I've faced similar case for several times, when I maximized my GVIM, it shows gray
+area at the bottom and right side of the screen. After some research, I found out
+that GVIM window dimension is actualy based on columns and rows rather than pixels.
+Therefore if your resolution is not matched with the total cols/rows
+of GVIM window, it will show 'waste' area which is on gray.
+</p>
+
+<p>
+Some people suggest to set the columns and rows to <i>8888</i> in their <i>vimrc</i>, which 
+doesn't really work for me, so instead of trying to hack the size, I'll just hack
+the color by customizing my theme's gtkrc. Let's replace the gray color into
+something similar to GVIM background, so we wouldn't notice the difference.
+</p>
+
+<p>
+I'm using Ubuntu 10.10 with Ambiance theme, so I updated my 
+<i>/usr/share/themes/ambiance/gtk-2.0/gtkrc</i> by adding this entry (at anywhere, I prefered
+in the middle):
+</p>
+
+<div class="gist">http://gist.github.com/1291857"></div>
+
+<p>
+That way, everytime I opened GVIM the grayed area will be changed to a darker color
+which is matched with my GVIM background.
+</p>]]></content:encoded>
+    <wp:post_name>changing-gray-area-at-the-side-of-gvim</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1724165858</link>
+    <pubDate>Mon, 29 Nov 2010 13:49:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1724165858</guid>
+    <!--<wp:post_id>1724165858</wp:post_id>-->
+    <wp:post_date>2010-11-28 21:49:00</wp:post_date>
+    <wp:post_date_gmt>2010-11-29 05:49:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>FlashDevelop color scheme</title>
+    <description></description>
+    <content:encoded><![CDATA[<p><a href="http://kecebongsoft.files.wordpress.com/2010/11/fd.jpg"><img src="http://media.tumblr.com/tumblr_lcmthodV2p1qajazg.jpg" /></a></p>&#13;
+<p>I've got a nice visual studio color scheme from somewhere, and I applied it (manually) to flashdevelop. It somehow looked like borland syntax coloring, anyway, it has dark background with shiny colored font. Download my FD color scheme from here: <a href="http://www.4shared.com/file/M577IxmY/FD_Borland_Color_Scheme.html">http://www.4shared.com/file/M577IxmY/FD_Borland_Color_Scheme.html</a></p> ]]></content:encoded>
+    <wp:post_name>flashdevelop-color-scheme</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1670292655</link>
+    <pubDate>Thu, 25 Nov 2010 00:27:32 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1670292655</guid>
+    <!--<wp:post_id>1670292655</wp:post_id>-->
+    <wp:post_date>2010-11-24 8:27:32</wp:post_date>
+    <wp:post_date_gmt>2010-11-24 16:27:32</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Future Pinball</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Today I got so excited trying Future Pinball. Future Pinball is a pinball machine simulator where you can design your own table and play it. There are many features, such as scripting, customization, etc. I consider the graphic was good, high resolution texture, shaders, etc. You can also download the existing tables from their website, or other fanbase site.</p>&#13;
+<p><img height="380" width="540" src="http://www.blindmankind.tecnopinball.org/3A_img/i_3.jpg" />What makes it even more awesome is, it is free!. You can download it from <a href="http://www.futurepinball.com/">http://www.futurepinball.com/</a> , and right after you download it, don't forget to download some tables from the website, and DON'T FORGET to try tables from this website as well: <a href="http://www.blindmankind.tecnopinball.org/">http://www.blindmankind.tecnopinball.org/</a>.</p>&#13;
+<p>If you're using Vista or Windows 7, remember to run the program in Administrator mode. Have fun playing!.</p> ]]></content:encoded>
+    <wp:post_name>future-pinball</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1657350300</link>
+    <pubDate>Tue, 23 Nov 2010 16:58:29 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1657350300</guid>
+    <!--<wp:post_id>1657350300</wp:post_id>-->
+    <wp:post_date>2010-11-23 0:58:29</wp:post_date>
+    <wp:post_date_gmt>2010-11-23 08:58:29</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Started to get bored with RockMelt, I decided to remove it from my launch tray and restore my chrome. I start to hate the Edge, it's very cool and at the same time its very annoying, I think they can modify the layout to somehow more compact. I also hate the "Search Google" option, when the returns shows up and I try to click a link, it will replace the current tab with the one that I clicked, it was either my stupidness or there are really no option to change this. Nevermind, hello Chrome.</p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1653920121</link>
+    <pubDate>Tue, 23 Nov 2010 09:47:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1653920121</guid>
+    <!--<wp:post_id>1653920121</wp:post_id>-->
+    <wp:post_date>2010-11-22 17:47:00</wp:post_date>
+    <wp:post_date_gmt>2010-11-23 01:47:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>GunBlood</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>GunBlood, a really addictive gunslinger game.</p>&#13;
+<p>&#13;
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="540" height="380">&#13;
+<param name="movie" value="http://www.gunblood.com/gunblood-western-shootout.swf" /><param name="quality" value="high" /><embed src="http://www.gunblood.com/gunblood-western-shootout.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="540" height="380"></embed></object>&#13;
+</p>&#13;
+<p><a href="http://www.gunblood.com/gunblood-western-shootout.swf">Play it here.</a></p> ]]></content:encoded>
+    <wp:post_name>gunblood</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1648735904</link>
+    <pubDate>Mon, 22 Nov 2010 23:52:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1648735904</guid>
+    <!--<wp:post_id>1648735904</wp:post_id>-->
+    <wp:post_date>2010-11-22 7:52:00</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 15:52:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Finally I can run Grumblr, GUI-based tools to create tumblr posts, this runs on ubuntu. Also I am able to display the timestamp on the left side by altering some part of the theme, tumblr tag reference really coming handy this time. </p>]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1648312809</link>
+    <pubDate>Mon, 22 Nov 2010 22:28:59 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1648312809</guid>
+    <!--<wp:post_id>1648312809</wp:post_id>-->
+    <wp:post_date>2010-11-22 6:28:59</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 14:28:59</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>I hate level design</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Yes, that's true. Level design and art related stuff just drive me crazy, I don't know, it seems like its very easy to be done, I even have all the necessary blue prints, all I need to do is aligning these assets to the provided blue prints, but my hand can't move at all, it's really hard to get my mood when it comes to art and design. I can do coding for hours without being tired or even bored. Maybe I wasn't born for this thing. Still need to copy around 13 blueprints before I started coding, where's my mountain dew anyway?</p> ]]></content:encoded>
+    <wp:post_name>i-hate-level-design</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1646493973</link>
+    <pubDate>Mon, 22 Nov 2010 16:10:19 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1646493973</guid>
+    <!--<wp:post_id>1646493973</wp:post_id>-->
+    <wp:post_date>2010-11-22 0:10:19</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 08:10:19</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>And that's it, thank God. The owner finally understand that I'm just a normal student in here, I don't want to get any trouble with any one. He will get here in few days and make a police report for illegal entry. From his text, I can see that he was really pissed of by her, who didn't?. Anyway, I don't have to worry about this anymore. As for the master room in my apartment is now emptied, I believe in the next couple of weeks I will get a house mate. Hopefully everything will goes well. </p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1646330972</link>
+    <pubDate>Mon, 22 Nov 2010 15:39:32 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1646330972</guid>
+    <!--<wp:post_id>1646330972</wp:post_id>-->
+    <wp:post_date>2010-11-21 23:39:32</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 07:39:32</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Just finished texting the apartment owner about the case that just happened this afternoon. After he text me that I need to make a police report, I am a little bit worried about myself, really don't want to get any trouble in Malaysia. Hopefully he will understand my position as well, damn, why such thing happened in this beautiful day?.</p>&#13;
+ ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1645870824</link>
+    <pubDate>Mon, 22 Nov 2010 14:26:49 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1645870824</guid>
+    <!--<wp:post_id>1645870824</wp:post_id>-->
+    <wp:post_date>2010-11-21 22:26:49</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 06:26:49</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Still developing my game, need to finish 20 blueprints of level before I can continue doing other things such as some experiments on Box2D and web services, hopefully the game can be finalized today.</p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1645852295</link>
+    <pubDate>Mon, 22 Nov 2010 14:24:00 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1645852295</guid>
+    <!--<wp:post_id>1645852295</wp:post_id>-->
+    <wp:post_date>2010-11-21 22:24:00</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 06:24:00</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Few months ago there was a house mate in this apartment who left without paying the rent for almost half a year, the owner told me not to open the door for her until she settle all her outstanding payments, but today somehow she managed to open the door and bring her (maybe) boyfriend along, and take all her stuff (which basically just clothes), now I don't know what should I say to the owner, hopefully I'm not involved into this. Damn, I was really in a good mood before, playing with my tools, and now that wench just ruined everything.</p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1645717556</link>
+    <pubDate>Mon, 22 Nov 2010 14:05:59 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1645717556</guid>
+    <!--<wp:post_id>1645717556</wp:post_id>-->
+    <wp:post_date>2010-11-21 22:05:59</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 06:05:59</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[testing from Posty air app]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1645514785</link>
+    <pubDate>Mon, 22 Nov 2010 13:40:35 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[link]]></category>
+		<category domain="category" nicename="link"><![CDATA[link]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1645514785</guid>
+    <!--<wp:post_id>1645514785</wp:post_id>-->
+    <wp:post_date>2010-11-21 21:40:35</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 05:40:35</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>kecebongsoft</title>
+    <description>Had to remove my tumblr integrations </description>
+    <content:encoded><![CDATA[Link: <a href="http://kecebongsoft.tumblr.com/">kecebongsoft</a>
+
+    <p>Had to remove my tumblr integrations</p> ]]></content:encoded>
+    <wp:post_name>kecebongsoft</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1644855259</link>
+    <pubDate>Mon, 22 Nov 2010 12:24:15 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1644855259</guid>
+    <!--<wp:post_id>1644855259</wp:post_id>-->
+    <wp:post_date>2010-11-21 20:24:15</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 04:24:15</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>now that's perfect :D, I got my tumblr with a very plain and simple theme, black and gray screen with light blue on the hyperlinks. Comment box was done using Disqus service. Also, I've installed a chrome extension as a shortcut to post to tumblr. Lucky RockMelt browser still can use chrome extension, and somehow this extension doesn't require any authentication at all, weird, maybe that's because I already logged in.</p>&#13;
+<p>Now I just need to login to FB frequently just to clean up some zombie posts that has no comments and replies at all.</p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1644611426</link>
+    <pubDate>Mon, 22 Nov 2010 11:58:28 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1644611426</guid>
+    <!--<wp:post_id>1644611426</wp:post_id>-->
+    <wp:post_date>2010-11-21 19:58:28</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 03:58:28</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Wordpress, Twitter &amp; Tumblr</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Jadi belakangan ini lagi nyoba cari beberapa web service yang bisa dipakai untuk tulisan serius, junk, dan short-post. Untuk tulisan serius, pilihan jatuh ke wordpress. Karena banyak sekali fitur advance blogging di wordpress seperti statistics dan kemampuan untuk attach source code, sedangkan kalau pakai fitur Notes di FB, selain terbatas, juga sifatnya ekslusif untuk jaringan pertemanan saja (tidak bisa ditangkap crawler). Kemudan untuk junk, jatuh kepada twitter, it's plain and simple. Lalu yang terakhir adalah short-post, dimana tulisannya nggak terlalu panjang seperti di wordpress, dan tidak terlalu limited seperti twitter, juga harus benar-benar simple, akhirnya terpilihlah tumblr. Nggak perlu ngisi title, tags, and all those shits. Benar-benar handy untuk ngepost apapun yang sifatnya bukan junk dan nggak terlalu panjang.</p> ]]></content:encoded>
+    <wp:post_name>wordpress-twitter-tumblr</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1644510037</link>
+    <pubDate>Mon, 22 Nov 2010 11:48:24 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1644510037</guid>
+    <!--<wp:post_id>1644510037</wp:post_id>-->
+    <wp:post_date>2010-11-21 19:48:24</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 03:48:24</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title></title>
+    <description></description>
+    <content:encoded><![CDATA[<p>First time trying to integrate my new tumblr with facebook news feed.</p> ]]></content:encoded>
+    <wp:post_name></wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/1644397534</link>
+    <pubDate>Mon, 22 Nov 2010 11:37:14 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/1644397534</guid>
+    <!--<wp:post_id>1644397534</wp:post_id>-->
+    <wp:post_date>2010-11-21 19:37:14</wp:post_date>
+    <wp:post_date_gmt>2010-11-22 03:37:14</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>baru pegang tumblr</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>setelah lama register, baru kali ini sempat diutak atik lagi</p> ]]></content:encoded>
+    <wp:post_name>baru-pegang-tumblr</wp:post_name>
+  </item>
+  <item>
+    <link>http://kecebongsoft.tumblr.com/post/388560341</link>
+    <pubDate>Sun, 14 Feb 2010 14:56:14 +0000</pubDate>
+    <dc:creator><![CDATA[post_author]]></dc:creator>
+    <category><![CDATA[regular]]></category>
+		<category domain="category" nicename="regular"><![CDATA[regular]]></category>
+    <guid isPermaLink="false">http://kecebongsoft.tumblr.com/post/388560341</guid>
+    <!--<wp:post_id>388560341</wp:post_id>-->
+    <wp:post_date>2010-02-13 22:56:14</wp:post_date>
+    <wp:post_date_gmt>2010-02-14 06:56:14</wp:post_date_gmt>
+    <wp:comment_status>closed</wp:comment_status>
+    <wp:ping_status>closed</wp:ping_status>
+    <wp:status>publish</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type>post</wp:post_type>
+    <wp:post_password></wp:post_password>
+    <title>Hello World</title>
+    <description></description>
+    <content:encoded><![CDATA[<p>Hello World!</p>&#13;
+ ]]></content:encoded>
+    <wp:post_name>hello-world</wp:post_name>
+  </item>
+</channel>
+</rss>
