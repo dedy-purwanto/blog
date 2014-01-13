@@ -23,6 +23,7 @@ def deploy():
 
 def import_tumblr():
     doc = BeautifulSoup(open('data/tumblr_kecebongsoft.xml', 'r'))
+    call('mkdir data/tumblr'.split(' '))
 
     for item in doc.findAll('item'):
         date = item.find("wp:post_date").text
@@ -32,6 +33,7 @@ def import_tumblr():
         if title is None or len(title) == 0:
             title = date
 
+        
         f = open('data/tumblr/%s.md' % slugify(title), 'w')
 
         f.write("title:%s\ndate:%s\nstatus:draft\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
