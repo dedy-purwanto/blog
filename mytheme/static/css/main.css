@@ -82,7 +82,8 @@ p {
   margin:0px;
   margin-bottom: 20px;
   text-indent: 0px;
-  font-size:16px;
+  font-size:15px;
+  font-weight:500;
 }
 /* line 68, ../../compass/src/main.scss */
 p.caption {
