@@ -3,6 +3,7 @@ from fabric.api import local, lcd
 def build():
     local("pelican . -o build/ -s pelican.conf.py")
     local("cp -r externals build/")
+    local("cp -r img build/")
 
 def deploy():
     print "Deploying..\n"
