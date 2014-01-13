@@ -1,6 +1,8 @@
 from fabric.api import local, lcd
 from bs4 import BeautifulSoup
 from slugify import slugify
+import os
+from subprocess import call
 
 def build():
     local("pelican . -o build/ -s pelican.conf.py")
@@ -34,3 +36,19 @@ def import_tumblr():
 
         f.write("title:%s\ndate:%s\nstatus:draft\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
 
+def wp_download_media():
+    call("ack -o 'http://[./a-zA-Z0-9_]*.jpg*' wordpress.xml | cat >> wordpress_media_urls.txt".split(' '))
+    call("ack -o 'http://[./a-zA-Z0-9_]*.jpeg*' wordpress.xml | cat >> wordpress_media_urls.txt".split(' '))
+    call("ack -o 'http://[./a-zA-Z0-9_]*.gif*' wordpress.xml | cat >> wordpress_media_urls.txt".split(' '))
+    call("ack -o 'http://[./a-zA-Z0-9_]*.png*' wordpress.xml | cat >> wordpress_media_urls.txt".split(' '))
+    f = open('wordpress_media_urls.txt', 'r')
+    files = []
+    for r in f:
+        url = r
+        if url not in files:
+            files.append(url)
+            dest = r.split('/')[-3:]
+            dest = 'wordpress_media/%s' % '-'.join(dest)
+            dest = dest.strip()
+            print 'Downloading %s to %s' % (url, dest)
+            call(['curl', url, '-o', dest])
