@@ -45,6 +45,7 @@ def wp_download_media():
     call("ack -o 'http://[./a-zA-Z0-9_]*.png*' wordpress.xml | cat >> data/wp_media.txt".split(' '))
     f = open('wp_media.txt', 'r')
     files = []
+    call('mkdir data/wp_media'.split(' '))
     for r in f:
         url = r
         if url not in files:
