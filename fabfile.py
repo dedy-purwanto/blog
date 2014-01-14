@@ -1,4 +1,4 @@
-from fabric.api import local, lcd
+from fabric.api import local, lcd, warn_only
 from bs4 import BeautifulSoup
 from slugify import slugify
 import re
@@ -27,7 +27,8 @@ def deploy():
 
 def import_tumblr():
     doc = BeautifulSoup(open('data/tumblr.xml', 'r'))
-    local('mkdir data/tumblr'.split(' '))
+    local('rm -rf data/tumblr')
+    local('mkdir -p data/tumblr'.split(' '))
 
     for item in doc.findAll('item'):
         date = item.find("wp:post_date").text
@@ -51,7 +52,7 @@ def wp_download_media():
         url = img.group()
         if url not in urls: urls.append(url)
 
-    local('mkdir data/wp_media'.split(' '))
+    local('mkdir -p data/wp_media'.split(' '))
     for url in urls:
         dest = url.split('/')[-3:]
         dest = 'data/wp_media/%s' % '-'.join(dest)
@@ -59,6 +60,21 @@ def wp_download_media():
         print 'Downloading %s to %s' % (url, dest)
         urlretrieve(url, dest)
 
+def wp_import():
+    doc = BeautifulSoup(open('data/wp.xml', 'r'))
 
+    local('rm -rf data/wordpress')
+    local('mkdir -p data/wordpress')
+    for item in doc.findAll('item'):
+        post_type = item.find("wp:post_type").text
+        if post_type == "post":
+            title = item.find("title").text
+            date = item.find("wp:post_date").text
+            content = item.find("content:encoded").text
+
+            filename = slugify("%s-%s" % (title, date))
+
+            f = open('data/wordpress/%s.md' % filename, 'w')
+            f.write("title:%s\ndate:%s\nstatus:draft\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
 
 
