@@ -8,8 +8,7 @@ from urllib import urlretrieve
 
 def build():
     local("pelican . -o build/ -s pelican.conf.py")
-    local("cp -r externals build/")
-    local("cp -r img build/")
+    local("cp -r data/media/* build/")
 
 def deploy():
     print "Deploying..\n"
