@@ -68,6 +68,22 @@ def wp_download_media():
         print 'Downloading %s to %s' % (url, dest)
         urlretrieve(url, dest)
 
+def wp_reformat(content):
+    content = BeautifulSoup(content)
+    for img in content.find_all('img'):
+        src = img['src']
+        src = re.sub('http://kecebongsoft.files.wordpress.com/(\d+)/(\d+)/', r'/img/wordpress/\1-\2-', src)
+        img.replace_with('![image](%s)' % src)
+    #content = re.sub('http://kecebongsoft.files.wordpress.com/(\d+)/(\d+)/', r'/img/wordpress/\1-\2-', content)
+    #content = re.sub('<im.*src=(\'|")(.*)["\'].*>', r"![image](\2)", content)
+
+    content = re.sub('\[caption.*?\](.|\n)*?\!(.*?\))(.|\n)*?caption]', r'\2', content.encode('ascii', 'ignore'))
+
+    content = re.sub('\[source.*?\]((.|\n)*?)\[/sourcecode\]', r'\t:::txt\1', content.encode('ascii', 'ignore'))
+    
+
+    return content
+
 def wp_import():
     doc = BeautifulSoup(open('data/wp.xml', 'r'))
 
@@ -79,10 +95,11 @@ def wp_import():
             title = item.find("title").text
             date = item.find("wp:post_date").text
             content = item.find("content:encoded").text
+            content = wp_reformat(content)
 
             filename = slugify("%s-%s" % (title, date))
 
             f = open('data/wordpress/%s.md' % filename, 'w')
-            f.write("title:%s\ndate:%s\nstatus:draft\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
+            f.write("title:%s\ndate:%s\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
 
 
