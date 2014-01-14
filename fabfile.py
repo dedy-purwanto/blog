@@ -4,6 +4,7 @@ from slugify import slugify
 import os
 from subprocess import call
 import re
+from urllib import urlretrieve
 
 def build():
     local("pelican . -o build/ -s pelican.conf.py")
@@ -50,12 +51,11 @@ def wp_download_media():
 
     call('mkdir data/wp_media'.split(' '))
     for url in urls:
-        files.append(url)
-        dest = r.split('/')[-3:]
+        dest = url.split('/')[-3:]
         dest = 'data/wp_media/%s' % '-'.join(dest)
         dest = dest.strip()
         print 'Downloading %s to %s' % (url, dest)
-        call(['curl', url, '-o', dest])
+        urlretrieve(url, dest)
 
 
 
