@@ -1,15 +1,23 @@
-from fabric.api import local, lcd, warn_only
+from fabric.api import local, lcd, warn_only, env
 from bs4 import BeautifulSoup
 from slugify import slugify
 import re
 from urllib import urlretrieve
 
+env.BUILD_POOL = False
+
+def pool():
+    env.BUILD_POOL = True
+
 def build(production=False):
+    args = "-r" if env.BUILD_POOL else ""
     if production:
         settings = "data/settings-production.py"
     else:
         settings = "data/settings.py"
-    command = "pelican . -o build/ -s %s" % settings
+
+    command = "pelican . -o build/ -s %s %s" % (settings, args)
+    print command
     local(command)
     local("cp -r data/media/* build/")
 
