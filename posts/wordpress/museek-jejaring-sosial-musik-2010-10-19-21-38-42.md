@@ -1,7 +1,7 @@
 title:Museek - Jejaring Sosial Musik
 date:2010-10-19 21:38:42
 
-[image](/img/wordpress/2010-10-homepage.png?w=300)
+![image](/img/wordpress/2010-10-homepage.png?w=300)
 
 Okay, akhirnya saya sempat juga mengulas tugas akhir S1 saya. Namanya Museek, yang merupakan acronym dari Music Seeker. Ide untuk membuat Museek sebenarnya udah cukup lama. Saya penggemar musik indo (well, ga semua musik indo sih, terutama lagu alay), dan di tahun kedua saya kuliah di luar indo, sangat sulit mencari informasi tentang lagu-lagu terbaru dari indo. Saya biasanya mencari dari forum, google, dan musik chart, itu juga harus download satu-satu dan jarang dapat yang pas. Dari sini lah muncul ide untuk membuat sebuah layanan yang bisa memberikan saya informasi tentang lagu-lagu yang "mungkin" saya suka, tanpa harus sibuk mencari dan mendengarkan lagu satu persatu. Lalu lahir lah ide museek ini.
 <!--more-->
@@ -17,7 +17,7 @@ Saya mencoba menggabungkan dua ide ini. Implementasi music recommendation system
 
 Museek banyak mengadaptasi konsep milik Last.fm, ini karena saya cukup aktif menggunakan Last.fm dan saya cukup nyaman dengan layanan mereka. Di Museek, anonymous user bisa melihat statistik umum seperti global music/artist chart. Jika ingin melihat statistik yang lebih personal, mereka bisa mendaftar dan mendownload sebuah client (program yang belum ada namanya, saya sebut saja dengan "client"). Client ini akan berjalan sebagai background service di komputer user, ketika ada lagu yang dimainkan di music player seperti Winamp, client akan mengirimkan informasi lagu ke server, user juga harus mengisi informasi account mereka di client untuk keperluan personalisasi.
 
-[image](/img/wordpress/2010-10-library.png?w=300)
+![image](/img/wordpress/2010-10-library.png?w=300)
 
 Disinilah saya mencoba memasukan konsep Music Box, yaitu audio data processing. Saya mencoba mengupload lagu-lagu yang dimainkan di client ke server, untuk kemudian dijadikan parameter perbandingan yang lebih akurat. Setiap kali user memainkan lagu, client akan mengambil 5% (default, bisa diubah) dari file musik yang dimainkan, lalu dikirim ke server. Dari sisi server, file-file ini akan dikumpulkan lalu dicek kelengkapannya, ketika sudah lengkap, maka akan disatukan menjadi file musik yang utuh, lalu didaftarkan sebagai list yang akan dibandingan dengan semua file musik yang sudah ada sebelumnya di server. Selain file musik, client juga mengirimkan data-data teks seperti informasi Tag, account user, dan tanggal/jam dimainkannya file tersebut.
 
@@ -31,12 +31,12 @@ Setelah data-data tersebut dikumpulkan dan disusun rapi, maka user bisa melihat 
 - Song tagging: User bisa menambah informasi khusus (tag) untuk setiap lagu.
 - Dan banyak lagi
 
-[image](/img/wordpress/2010-10-stat.png?w=300)
+![image](/img/wordpress/2010-10-stat.png?w=300)
 
 Museek menggunakan konsep social network agar user bisa bertukar informasi secara aman (termasuk privasi control). Museek menggunakan 2 jenis processing untuk memberikan rekomendasi musik yang lebih akurat, yaitu textual dan raw audio data processing. Textual processing sendiri mencakup song log tiap user, database artist, album, dan track. Museek mengimplementasikan beragam jenis comparison method untuk memproses data textual.
 
 Untuk audio processing, ada beberapa tahap yang dilakukan sebelum mendapatkan hasil perbandingan. Pertama adalah menyatukan semua fragment file audio yang diupload, kemudian setelah semuat fragment lengkap, file audio disatukan lalu diubah menjadi histogram yang outputnya adalah file image beresolusi tinggi. Histogram yang dihasilkan mencakup pitch, timbre, dan informasi audio lainnya. Kemudian histogram ini dibandingkan dengan histogram-histogram lainnya yang sudah ada sebelumnya. Setiap satu histogram yang dihasilkan, akan dibandingkan dengan semua histogram yang sudah ada sebelumnya. Hasil perbandingan akan disimpan kedalam table similarity, dari sinilah Museek bisa mencari kemiripan lagu antara satu dan yang lainnya.&#160;Audio processing murni dilakukan oleh server, dan terdapat berbagai pengecekan seperti mengacuhkan fragment upload jika ternyata file sudah ada di server, serta membatalkan proses konversi audio ke histogram jika fragment file belum lengkap.
 
-[image](/img/wordpress/2010-10-audio.png?w=250)
+![image](/img/wordpress/2010-10-audio.png?w=250)
 
 Saya sendiri merasakan bahwa skripsi Museek ini menarik, terlepas dari proses pengerjaannya yang sempat terkatung-katung, konsep dan implementasinya sangat menarik untuk dikembangkan. Awalnya saya berencana untuk mengambil research tentang graphic programming, namun karna requirement final year project disini mengharuskan membuat product yang easy to sell &amp; tidak teralu spesifik, maka jadilah Museek ini. Saat skripsi selesai, hampir semua feature sudah saya implementasikan, meskipun tentu saja masih ada bug disana sini. Setelah dokumentasinya mencapai ratusan lembar, dan implementasinya mendapat respon yang positif dari ketiga supervisor, saya berencana untuk mendeploy Museek ke publik, namun belum punya server yg memadai. Mungkin untuk sementara ini dikembangkan secara internal saja dulu, keep in touch ;)

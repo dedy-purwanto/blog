@@ -1,7 +1,7 @@
 title:Goosh, Google Shell
 date:2008-06-03 08:44:02
 
-[image](/img/wordpress/2008-06-goosh.jpg)
+![image](/img/wordpress/2008-06-goosh.jpg)
 
 Stefan Grothkopp membuat sebuah mainan yang lumayan keren.
 <a href="http://goosh.org/">

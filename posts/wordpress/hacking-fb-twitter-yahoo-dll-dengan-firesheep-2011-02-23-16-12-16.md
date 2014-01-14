@@ -19,15 +19,15 @@ Cara menggunakan Firesheep relatif sederhana. Setelah instalasi, pertama-tama ja
 
 Silahkan lihat langkah-langkah penggunaan Firesheep ini, pertama kita jalankan Firefox, dan Firesheep muncul di sidebar:
 
-[image](/img/wordpress/2011-02-firesheep1.png)
+![image](/img/wordpress/2011-02-firesheep1.png)
 
 Lalu setelah meng-klik Start Capturing, semua orang yang sedang login Twitter, Facebook, Google Mail, Yahoo, dll akan tertangkap di Firesheep kita, dan akan muncul di sidebar Firefox:
 
-[image](/img/wordpress/2011-02-firesheep2.png)
+![image](/img/wordpress/2011-02-firesheep2.png)
 
 Itu saja, kita bisa memilih akan mencuri account siapa, tinggal klik icon-icon yang ada di Sidebar, lalu secara otomatis kita telah login sebagai mereka, kita bisa melakukan apapun, mengganti email, password, apapun:
 
-[image](/img/wordpress/2011-02-firesheep3.png)
+![image](/img/wordpress/2011-02-firesheep3.png)
 
 Kenapa Firesheep bisa mencuri data semudah itu?. Ada beberapa alasan, yang pertama adalah karena port yang digunakan layanan web sekarang masih relatif tidak aman, yaitu HTTP (80), yang mana tidak banyak enkripsi yang dilakukan oleh port ini. Alasan kedua adalah, banyak layanan web yang tidak melakukan autentikasi lanjutan setelah login. Cookie yang mereka simpan pada dasarnya "telanjang" tanpa perlindungan apapun, sehingga siapapun bisa mencurinya. Alasan ketiga adalah karena cookie ini dishare pada 1 wifi terbuka, yang secara otomatis akan memiliki public IP yang sama. Sehingga layanan web seperti Facebook dan Twitter akan menganggap siapapun user yang memiliki Cookie dan public IP yang sama adalah orang yang sama.
 

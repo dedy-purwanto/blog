@@ -8,7 +8,7 @@ date:2008-08-13 03:52:06
  </a>
  yang dijual di iPhone App Store. Yang membuat heboh adalah : pertama karena aplikasi ini nyaris tidak ada fungsi/gunanya, yang kedua adalah karena harganya USD1000!.
 </div>
-[image](/img/wordpress/2008-08-iamrich.jpg?w=210)
+![image](/img/wordpress/2008-08-iamrich.jpg?w=210)
 
 Entah memang tidak ada gunanya, atau hanya saya yang tidak tahu gunanya apa. Saat kita pertama kali membuka aplikasi "I Am Rich", yang muncul hanya sebuah gambar intan berwarna merah yang bersinar. Kemudian disudut kanan bawah ada tombol putih yang jika diklik, akan menampilkan pesan "
 <strong>

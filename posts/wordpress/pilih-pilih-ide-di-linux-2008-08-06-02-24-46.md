@@ -27,7 +27,7 @@ Yang pertama adalah
 </em>
 dsb. Dengan sangat terpaksa saya singkirkan Gedit dan mencari IDE lain.
 
-[image](/img/wordpress/2008-08-gedit.jpg?w=300)
+![image](/img/wordpress/2008-08-gedit.jpg?w=300)
 
 Pilihan kedua adalah mengemulasikan Dreamweaver di platform Linux, biasanya ini bisa menggunakan emulator seperti
 <a href="http://www.winehq.org/">
@@ -69,7 +69,7 @@ Yang terakhir dan baru dapat, adalah
 1. Tidak ada color picker. Bagi saya color picker adalah utility vital ketika kita sedang mengedit file stylesheet seperti CSS.
 2. Tidak ada "designer mode", sehingga kita tidak bisa melihat live-preview dari sebuah file HTML layaknya pada Dreamweaver. (Ini bukan nilai minus karena saya bukan desainer :p)
 
-[image](/img/wordpress/2008-08-komodoedit.jpg?w=300)
+![image](/img/wordpress/2008-08-komodoedit.jpg?w=300)
 
 Sejauh ini, Komodo Edit-lah yang jadi pilihan saya untuk mengerjakan kode-kode client/server side seperti .js, .php, dll. Software yang free, light, komplit dan sampai sekarang masih terus dikembangkan. Salah satu nilai plus juga adalah software ini yang paling "mirip" environmentnya dengan Dreamweaver jika dibanding dengan software-software lain yang sudah saya sebut diatas (ini pendapat pribadi), jadi rasanya lebih nyaman aja.
 

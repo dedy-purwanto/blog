@@ -7,11 +7,11 @@ date:2011-02-22 02:12:35
 </a>
 ) Few days ago, I was quite bored at 3AM and decided to decorate my Wordpress theme. I&#8217;ve been using Vigilance theme for a while and I think it is a good theme, except that there are stuff I don&#8217;t really like, such as some colors and positioning. Unfortunately I can&#8217;t change most part of the theme since I didn&#8217;t apply for premium account. Here was the screenshot of my original Vigilance theme:
 
-[image](/img/wordpress/2011-02-blogoriginal.jpg?w=300)
+![image](/img/wordpress/2011-02-blogoriginal.jpg?w=300)
 <!--more-->
 In a free account, Vigilance only provides some features to change the colors of some elements. Better than doing nothing, I rather change the link color from default red to dark blue through these options:
 
-[image](/img/wordpress/2011-02-colorschemeori.jpg?w=300)
+![image](/img/wordpress/2011-02-colorschemeori.jpg?w=300)
 
 No big deal right? I just have to click the color picker and change the color value. But suddenly a random thought flows in my head, few years back I wrote an article about hacking a web page through CSS inputs.
 <a href="http://kecebongsoft.wordpress.com/2008/09/06/hacking-trick-css-injection/">
@@ -83,12 +83,12 @@ linkColor:
 
 Here is the screenshot of my modification:
 
-[image](/img/wordpress/2011-02-colorschemehacked.jpg?w=300)
+![image](/img/wordpress/2011-02-colorschemehacked.jpg?w=300)
 
 In this modification, I changed the default font to Google Web Font, and I even add the font shadow. Also, I changed many things in the theme such as the title and description placement, removing tags, categories and footer, changing the column width, etc.
 
 Here is the result of my code:
 
-[image](/img/wordpress/2011-02-bloghacked.jpg?w=300)
+![image](/img/wordpress/2011-02-bloghacked.jpg?w=300)
 
 That&#8217;s it, I leave it like that for almost 2 days. It seems like no Wordpress admin aware about my changes. I am not sure whether they knew about this vulnerable or not. So I am writing this post as well as a report to them, and I changed back my theme to the default one right before I wrote this blog post. Hopefully they will fix it, in case they haven't, you can try it on your own. Change your theme to Vigilance, and go to Theme Options, have fun :D

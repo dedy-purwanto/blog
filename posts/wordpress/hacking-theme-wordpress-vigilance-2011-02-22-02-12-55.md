@@ -7,11 +7,11 @@ date:2011-02-22 02:12:55
 </a>
 ) Beberapa hari yang lalu, saya lumayan nggak ada kerjaan sekita rjam 3 pagi, dan nyoba2 buat modifikasi theme wordpress. Saya orang yang cukup cepat bosan dengan theme wordpress, dan cukup nggak punya modal untuk apply buat premium account :D. Wordpress sendiri nggak memberikan fasilitas untuk mengubah banyak bagian dari theme kepada free user. Ini screenshot asli theme Vigilance yang saya pakai:
 
-[image](/img/wordpress/2011-02-blogoriginal.jpg?w=300)
+![image](/img/wordpress/2011-02-blogoriginal.jpg?w=300)
 <!--more-->
 Hanya untuk sedikit memperbaiki tampilan aja, saya coba ubah warna link dari defaultnya yang merah menjadi biru tua:
 
-[image](/img/wordpress/2011-02-colorschemeori.jpg?w=300)
+![image](/img/wordpress/2011-02-colorschemeori.jpg?w=300)
 
 Yup, simple aja, cukup click color picker dan ganti warnanya. Tapi tunggu, tiba2 saya ingat setahun lalu sempat main-main dengan SB GDI dan nulis tentang
 <a href="http://kecebongsoft.wordpress.com/2008/09/06/hacking-trick-css-injection/">
@@ -82,12 +82,12 @@ linkColor:
 
 Dan ini adalah screenshot dari modifikasi di Theme Options:
 
-[image](/img/wordpress/2011-02-colorschemehacked.jpg?w=300)
+![image](/img/wordpress/2011-02-colorschemehacked.jpg?w=300)
 
 Dalam modifikasi ini, saya mengubah default font menjadi Google Web Font, dan bahkan menambahkan font shadow. Saya juga mengubah banyak hal lain seperti title dan description blog saya, menghapus tag, kategori, footer, serta mengganti column width. Hasilnya blog saya menjadi lebih rapi :D
 
 Ini adalah hasil dari input CSS injection yang saya buat:
 
-[image](/img/wordpress/2011-02-bloghacked.jpg?w=300)
+![image](/img/wordpress/2011-02-bloghacked.jpg?w=300)
 
 Begitulah, saya sengaja membiarkan blog saya seperti itu sekitar 2 hari. Sepertinya nggak ada admin Wordpress yang sadar. Entah apa mereka udah tau tentang bug in atau belum. Jadi saya menulis blog post dalam english sebagai proof of concept, juga membuar report ke Wordpress tentang masalah ini, saya juga udah mengembalikan konfigurasi awal theme saya menjadi yang default. Mudah-mudahan segera di-fix oleh pihak wordpress. Anda juga bisa mencobanya langsung dengan mengubah theme ke Vigilance dan mengaturnya di Theme Options :D

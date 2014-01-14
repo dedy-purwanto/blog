@@ -13,19 +13,19 @@ yang terdiri dari beberapa part yang bisa kita rakit menjadi robot sesuka kita. 
 <!--more-->
 Bagaimana cara kerjanya?. Part utama yang menggerakan robot Bioloid adalah Dynamixel, yaitu sejenis R/C servo (dinamo), tapi berbeda dengan R/C servo biasa, Dyamixel bekerja dalam jaringan yang memiliki fungsi feedback. Dengan begitu, seluruh Dynamixel pada Bioloid bisa bekerja sama dengan saling mengirimkan feedback.
 
-[image](/img/wordpress/2008-12-b2.jpg)
+![image](/img/wordpress/2008-12-b2.jpg)
 
 Sebagai contoh, untuk membuat tangan robot, maka diperlukan 3 poros, yaitu bahu, siku dan pergelangan tangan. Maka kita memerlukan 3 Dynamixel. Satu diletakan di bahu, di siku dan terakhir di pergelangan tangan. Kemudian untuk melakukan gerakan melambai (misalnya), maka ketiga Dynamixel ini saling berkomunikasi dalam melakukan setiap gerakan agar poros-poros tangan tersebut bisa mensimulasikan gerakan melambai. Simpel kan?. Banyaknya jumlah Dynamixel pada sebuah robot tergantung dari design kita. Anggap saja untuk sebuah tangan/kaki diperlukan 3 dynamixel, maka diperlukan sekitar 12 dynamixel (atau lebih) untuk membuat robot menyerupai manusia. Tapi itu semua kembali pada design yang kita miliki, karena dengan jumlah Dynamixel yang sedikitpun kita tetap bisa membuat robot yang diinginkan asalkan designnya tepat.
 
-[image](/img/wordpress/2008-12-b31.jpg?w=300)
+![image](/img/wordpress/2008-12-b31.jpg?w=300)
 
 Part selanjutnya yang tidak kalah penting adalah CM-5, ini adalah part utama yang mengontrol semua Dynamixel. Karena ini adalah centralnya, jadi untuk satu robot biasanya hanya butuh 1 buah CM-5. Part ini bisa dibilang sebagai komputer kecil, dimana didalamnya terdapat berbagai macam instruksi yang menggerakan setiap Dynamixel. Kita tidak perlu memusingkan part ini, karena dia bekerja otomatis sesuai instruksi yang diberikan. Cukup meletakannya di robot kita dan menghubungkannya ke semua Dynamixel. CM-5 menerima instruksi dari PC / controller untuk kemudian memberikan perintah kepada Dynamixel untuk bergerak.
 
-[image](/img/wordpress/2008-12-b4.jpg?w=249)
+![image](/img/wordpress/2008-12-b4.jpg?w=249)
 
 Kemudian komponen selanjutnya adalah software, Bioloid menyertakan software The Behaviour Control Programmer dan Three-Dimensional Motion Editor. Setelah kita merakit robot sesuai design kita, selanjutnya kita menghubungkannya dengan software tersebut untuk membuat gerakan-gerakan dan sifat-sifat robot. Sifat-sifat robot ini contohnya adalah, ketika detektor suara mendeteksi suara sekian dB, maka akan melakukan gerakan-gerakan tertentu, dan lain sebagainya. Kemudian software motion editor juga bisa digunakan untuk membuat gerakan kompleks bagi si robot, sebagai contoh adalah robot mobil yang berubah menjadi prajurit, atau sebaliknya.
 
-[image](/img/wordpress/2008-12-b5.jpg)
+![image](/img/wordpress/2008-12-b5.jpg)
 
 Ketiga part inilah yang menjadi kunci utama bioloid. Dengan PC/Laptop, kita nyalakan software yang telah disediakan, lalu hubungkan PC/Laptop kita dengan CM-5 yang ada pada bioloid menggunakan kabel USB yang telah disediakan, kemudian robot bioloid pun siap dioperasikan. Dengan cara kerja sebagai berikut : PC/Laptop mengirimkan instruksi ke CM-5, kemudian CM-5 menerima instruksi lalu memerintahkan Dynamixel untuk bergerak.
 
@@ -33,7 +33,7 @@ Kemudian part yang juga dikontrol oleh CM-5 adalah Sensor Module (AX-S1), part i
 
 Part-part selanjutnya adalah frame, yaitu casing-casing kecil yang bisa ditempelkan dibagian-bagian tubuh si robot, kemudian sekrup, kabel, stiker, dan lain sebagainya.
 
-[image](/img/wordpress/2008-12-b6.jpg?w=300)
+![image](/img/wordpress/2008-12-b6.jpg?w=300)
 
 Saya rasa Bioloid cocok untuk edukasi pelajar dalam mempelajari prinsip-prinsip robotika serta para hobbyst. Dengan parts dan software yang telah disediakan, kita bisa mendesain robot sesuka kita dan mengaplikasikan gerakan dan sifatnya.
 
@@ -47,7 +47,7 @@ Harganya?. Untuk Bioloid yang paket Beginner, dijual seharga USD349. Kalau tingg
 
 Paket selanjutnya yaitu Comprehensive dijual seharga USD899 dan Expert dijual seharga USD2.999. Tapi saya rasa beginner kit juga sudah cukup untuk muasin hobi sebelum mulai ke tahap advanced.
 
-[image](/img/wordpress/2008-12-b7.jpg?w=300)
+![image](/img/wordpress/2008-12-b7.jpg?w=300)
 
 Bagaimana? tertarik membuat robot sendiri?. Lihat juga contoh video-video transformasi robot Bioloid yang ada di Youtube. Contohnya
 <a href="http://www.youtube.com/watch?v=zK8OjwMdn5I&amp;feature=rec-HM-r2">

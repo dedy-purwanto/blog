@@ -21,13 +21,13 @@ Pertama,
 </a>
 Kemudian dikedua halaman tersebut, klik tombol "Load Into Stylish", dan ikuti saja perintah yang ditampilkan (tekan install dan OK). Maka halaman facebook kita akan berubah menjadi seperti ini:
 
-[image](/img/wordpress/2009-06-fb1.jpg?w=300)
+![image](/img/wordpress/2009-06-fb1.jpg?w=300)
 
-[image](/img/wordpress/2009-06-fb2.jpg?w=300)
+![image](/img/wordpress/2009-06-fb2.jpg?w=300)
 
-[image](/img/wordpress/2009-06-fb3.jpg?w=300)
+![image](/img/wordpress/2009-06-fb3.jpg?w=300)
 
-[image](/img/wordpress/2009-06-fb4.jpg?w=300)
+![image](/img/wordpress/2009-06-fb4.jpg?w=300)
 
 Dalam kasus diatas, kita menginstal dan menyatukan dua theme, theme yang pertama akan merubah taskbar facebook menjadi vista theme, dan theme yang kedua merubah keseluruhan halaman facebook. Jika hanya menginstall salah satu saja, maka yang berubah hanya taskbar atau page penuh facebook. Lihat juga list lengkap skin2 facebook
 <a href="http://userstyles.org/styles/search/http%3A%2F%2Fwww.facebook.com%2Fhome.php%23%2Fhome.php%3Fref%3Dhome">
@@ -43,7 +43,7 @@ Kita juga bisa mengubah skin website-website lain. Salah satu contoh adalah Goog
 </a>
 Lalu klik tombol "Load Into Stylish". Maka halaman Google English kita akan berubah menjadi dark theme :
 
-[image](/img/wordpress/2009-06-google.jpg?w=300)
+![image](/img/wordpress/2009-06-google.jpg?w=300)
 
 Saya sendiri melakukan sedikit modifikasi pada theme diatas dengan menambah list website Google Indonesia dan mengecilkan ukuran font,
 <a href="http://apayach.com/files/googlestyle.css">
