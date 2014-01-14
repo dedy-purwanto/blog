@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from slugify import slugify
 import os
 from subprocess import call
+import re
 
 def build():
     local("pelican . -o build/ -s pelican.conf.py")
@@ -39,19 +40,23 @@ def import_tumblr():
         f.write("title:%s\ndate:%s\nstatus:draft\n\n%s" % (title.encode('ascii', 'ignore'), date, content.encode('ascii', 'ignore')))
 
 def wp_download_media():
-    call("ack -o 'http://[./a-zA-Z0-9_]*.jpg*' wordpress.xml | cat >> data/wp_media.txt".split(' '))
-    call("ack -o 'http://[./a-zA-Z0-9_]*.jpeg*' wordpress.xml | cat >> data/wp_media.txt".split(' '))
-    call("ack -o 'http://[./a-zA-Z0-9_]*.gif*' wordpress.xml | cat >> data/wp_media.txt".split(' '))
-    call("ack -o 'http://[./a-zA-Z0-9_]*.png*' wordpress.xml | cat >> data/wp_media.txt".split(' '))
-    f = open('wp_media.txt', 'r')
-    files = []
+    f = open('data/wp.xml', 'r')
+    r = re.compile("http://[./a-zA-Z0-9_]*.(jpg|png|jpeg|gif)")
+    source = f.read()
+    urls = []
+    for img in r.finditer(source):
+        url = img.group()
+        if url not in urls: urls.append(url)
+
     call('mkdir data/wp_media'.split(' '))
-    for r in f:
-        url = r
-        if url not in files:
-            files.append(url)
-            dest = r.split('/')[-3:]
-            dest = 'data/wp_media/%s' % '-'.join(dest)
-            dest = dest.strip()
-            print 'Downloading %s to %s' % (url, dest)
-            call(['curl', url, '-o', dest])
+    for url in urls:
+        files.append(url)
+        dest = r.split('/')[-3:]
+        dest = 'data/wp_media/%s' % '-'.join(dest)
+        dest = dest.strip()
+        print 'Downloading %s to %s' % (url, dest)
+        call(['curl', url, '-o', dest])
+
+
+
+
