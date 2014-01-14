@@ -1,8 +1,7 @@
 title:KISS vs Generalization
-date:0000-00-00 00:00:00
-status:draft
+date:2008-03-03
 
- Dalam software development, sering terdengar istilah Keep It Simple Stupid. Jika bisa dilakukan dengan sederhana, maka lakukan dengan sederhana, jangan buat yang rumit-rumit, jika pensil bisa digunakan diluar angkasa, maka tidak perlu riset jutaan dollar untuk membuat alat tulis yang bisa dipakai pada kondisi apapun.
+Dalam software development, sering terdengar istilah Keep It Simple Stupid. Jika bisa dilakukan dengan sederhana, maka lakukan dengan sederhana, jangan buat yang rumit-rumit, jika pensil bisa digunakan diluar angkasa, maka tidak perlu riset jutaan dollar untuk membuat alat tulis yang bisa dipakai pada kondisi apapun.
 
 Sering juga kita mendengar istilah Generalization. Tahu gear kan? sepasang (atau lebih?) roda gigi berotasi yang memindah gaya mekanis. Gear nyaris dipakai diseluruh benda bermotor. Bayangkan jika tidak ada gear, mungkin tiap mesin mengambil/memindahkan tenaga mekanis dengan cara berbeda-beda, ada yang menggunakan cara kerja batangan baja pada roda kereta api klasik, dan cara-cara lainnya.
 

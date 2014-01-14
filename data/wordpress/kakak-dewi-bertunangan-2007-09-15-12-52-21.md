@@ -1,9 +1,19 @@
 title:Kakak Dewibertunangan!
 date:2007-09-15 12:52:21
-status:draft
 
-Whew!, kaget juga waktu tadi nelepon kerumah. Niatnya sih iseng aja, kebetulan pulsa tinggal <abbr title="Ringgit Malaysia -+ Rp.2600">RM</abbr> 1.73, jadi sekalian aja dihabisin. Awalnya sih pengen nelepon <abbr title="Mamahkuw Cintakuw">my honey</abbr> tapi ketutup mulu.  Waktu nelepon rumah, nggak ada dial tone nya, sampai berkali-kali, jadi akhirnya nelepon kakakku, kk Dewi.<!--more-->
-<blockquote><em>"Tuutt..."
+Whew!, kaget juga waktu tadi nelepon kerumah. Niatnya sih iseng aja, kebetulan pulsa tinggal
+<abbr title="Ringgit Malaysia -+ Rp.2600">
+ RM
+</abbr>
+1.73, jadi sekalian aja dihabisin. Awalnya sih pengen nelepon
+<abbr title="Mamahkuw Cintakuw">
+ my honey
+</abbr>
+tapi ketutup mulu.  Waktu nelepon rumah, nggak ada dial tone nya, sampai berkali-kali, jadi akhirnya nelepon kakakku, kk Dewi.
+<!--more-->
+<blockquote>
+ <em>
+  "Tuutt..."
 Dewi : "Halo? "
 Me : "Dew? panggilin mami dong"
 Dewi : "Mami..!!! ni Dedi nelepon!. Cepetan..!!"
@@ -36,5 +46,7 @@ Me : "Gak kok, sekalian dihabisin, soalnya tinggal dikit"
 Babe : "Ooo.. Oh iya, malem besok kamu..."
 Me : "Apa?"
 Babe "Malem besok ka..."
-"tut.... tut.... tut...."</em></blockquote>
+"tut.... tut.... tut...."
+ </em>
+</blockquote>
 Yah sudah lah, setidaknya dah dapat kabar dari rumah. Hmm.. Kakak Dewi tukar cincin ya malam besok (16 September 2007). Semoga harmonis sampai akhir khayat ya Kakakku tersayang!. Semuanya, mohon doanya ya ^_^.

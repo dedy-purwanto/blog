@@ -1,21 +1,20 @@
 title:Contoh script soal pilihan ganda pada PHP
 date:2007-09-15 08:10:50
-status:draft
 
-Kemarin, seorang teman menanyakan tentang hal ini. Dakuw juga sering berfikir kenapa tidak ada tutorial yang seperti ini, rata-rata tutorial tersebut lebih mengarah ke teknik-teknik pemrograman, bukan alur logika yang mengarah pada kasus-kasus spesifik seperti ini (CMIIW). Mungkin beberapa berpendapat, bahwa mereka harus membangun logika sendiri. Bagaimana kalau logikanya Pentium tidur seperti dakuw :-D (becanda deng).<!--more-->
-
+Kemarin, seorang teman menanyakan tentang hal ini. Dakuw juga sering berfikir kenapa tidak ada tutorial yang seperti ini, rata-rata tutorial tersebut lebih mengarah ke teknik-teknik pemrograman, bukan alur logika yang mengarah pada kasus-kasus spesifik seperti ini (CMIIW). Mungkin beberapa berpendapat, bahwa mereka harus membangun logika sendiri. Bagaimana kalau logikanya Pentium tidur seperti dakuw :-D (becanda deng).
+<!--more-->
 Just an opinion. Oke deh, disini kita akan mencoba membuat web sederhana yang menampilkan sejumlah soal dari sekian soal secara acak, dan setiap soal disertai dengan 4 pilihan (pilihan ganda). Setelah soal-soal tersebut dijawab oleh user, maka akan ditampilkan halaman yang mengecek jawaban tersebut benar/salah. Mudah kan?
 
 Pertama, kita desain dulu databasenya, buka phpmyadmin atau MySQL Front atau apapun yang biasa dipakai untuk manajemen database MySQL. Tabel pertama adalah table soal, yang akan menyimpan soal-soal.
-[sourcecode language='sql']
+	:::txt
 CREATE TABLE `soal` (
 `id` int(99) NOT NULL AUTO_INCREMENT,
 `soal` text NOT NULL,
 PRIMARY KEY  (`id`)
 );
-[/sourcecode]
-ID adalah primary key dari tiap record, sedangkan field soal akan menyimpan text-text soal. Tabel soal sudah jadi, sekarang kita buat tabel jawaban.
-[sourcecode language='sql']
+
+ID adalah primary key dari tiap record, sedangkan field &#8220;soal&#8221; akan menyimpan text-text soal. Tabel &#8220;soal&#8221; sudah jadi, sekarang kita buat tabel jawaban.
+	:::txt
 CREATE TABLE `jawaban` (
 `id` int(99) NOT NULL AUTO_INCREMENT,
 `soal` int(99) NOT NULL,
@@ -23,12 +22,12 @@ CREATE TABLE `jawaban` (
 `benar` tinyint(1) NOT NULL,
 PRIMARY KEY  (`id`)
 );
-[/sourcecode]
-Field id, adalah primary key dari tiap record. Field soal adalah foreign key yang menunjuk pada tabel soal. Misalkan pada sebuah record di tabel jawaban, terdapat nilai 3 pada field soal, maka itu berarti jawaban tersebut milik soal yang ber-id 3 pada tabel soal. Field jawaban adalah field yang menyimpan teks jawaban. Field benar adalah field yang menentukan jawaban tersebut benar atau tidak (karena peraturannya adalah pilihan berganda), mungkin saja ada banyak jawaban untuk satu soal, tapi hanya satu yang benar. Kita akan set 0 untuk tiap jawaban yang salah, dan 1 untuk jawaban yang benar.
+
+Field &#8220;id&#8221;, adalah primary key dari tiap record. Field &#8220;soal&#8221; adalah foreign key yang menunjuk pada tabel soal. Misalkan pada sebuah record di tabel jawaban, terdapat nilai &#8220;3&#8221; pada field &#8220;soal&#8221;, maka itu berarti jawaban tersebut milik soal yang ber-id &#8220;3&#8221; pada tabel soal. Field &#8220;jawaban&#8221; adalah field yang menyimpan teks jawaban. Field &#8220;benar&#8221; adalah field yang menentukan jawaban tersebut benar atau tidak (karena peraturannya adalah pilihan berganda), mungkin saja ada banyak jawaban untuk satu soal, tapi hanya satu yang benar. Kita akan set 0 untuk tiap jawaban yang salah, dan 1 untuk jawaban yang benar.
 Oke, tabel udah jadi, sekarang kita masuk ke script, perlu diingat struktur file disini dibuat sesederhana mungkin, tapi jangan diikuti untuk website sebenarnya yak :-D .
 
 Ini script untuk menampilkan soal dan jawabannya, jangan khawatir tiap baris sudah diberi komentar penjelas kok :D. Klo di jelasin disini lagi justru berbelit-belit :-D, simpan dengan nama soal_view.php :
-[sourcecode language='php']
+	:::txt
 &lt;?
 $db=mysql_connect("localhost","root","");
 if($db)
@@ -39,13 +38,13 @@ if(mysql_select_db("tutorial_1"))
 }
 else
 {
-echo "Can&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;t select database!";
+echo "Can&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;t select database!";
 exit;
 }
 }
 else
 {
-echo "Can&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;t Connect to MySQL Server!";
+echo "Can&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;t Connect to MySQL Server!";
 exit;
 }
 ?&gt;
@@ -112,9 +111,9 @@ echo "&lt;input type=\\"hidden\\" name=\\"soal_nomor\\" value=\\"$soal_nomor_sen
 ?&gt;
 &lt;input type="submit" value="Jawab"&gt;
 &lt;/form&gt;
-[/sourcecode]
+
 Dan ini, adalah file untuk memproses jawaban, simpan dengan nama file soal_process.php :
-[sourcecode language='php']
+	:::txt
 &lt;?
 $db=mysql_connect("localhost","root","");
 if($db)
@@ -125,13 +124,13 @@ if(mysql_select_db("tutorial_1"))
 }
 else
 {
-echo "Can&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;t select database!";
+echo "Can&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;t select database!";
 exit;
 }
 }
 else
 {
-echo "Can&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;t Connect to MySQL Server!";
+echo "Can&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;t Connect to MySQL Server!";
 exit;
 }
 ?&gt;
@@ -170,9 +169,9 @@ $user_jawab=$_POST["jawab_$soal_nomor"];
 // apakah "id" jawaban yang sedang ada di query ini sama dengan "id"/value pada radio button yang disubmit user?
 if($user_jawab==$id){
 if($benar==0){ // apakah salah jawaban si user?
-$jawab_status="&lt;span style=&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;color:red;&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;&gt;&amp;lt;&amp;lt; Jawaban Anda&Atilde;&cent;&iuml;&iquest;&frac12;&Acirc;&brvbar; Salah!&lt;/span&gt;";
+$jawab_status="&lt;span style=&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;color:red;&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;&gt;&amp;lt;&amp;lt; Jawaban Anda&#195;&#162;&#239;&#191;&#189;&#194;&#166; Salah!&lt;/span&gt;";
 }else{ // atau benar?
-$jawab_status="&lt;span style=&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;color:blue;&Atilde;&cent;&iuml;&iquest;&frac12;&iuml;&iquest;&frac12;&gt;&amp;lt;&amp;lt; Jawaban Anda&Atilde;&cent;&iuml;&iquest;&frac12;&Acirc;&brvbar; Benar!&lt;/span&gt;";
+$jawab_status="&lt;span style=&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;color:blue;&#195;&#162;&#239;&#191;&#189;&#239;&#191;&#189;&gt;&amp;lt;&amp;lt; Jawaban Anda&#195;&#162;&#239;&#191;&#189;&#194;&#166; Benar!&lt;/span&gt;";
 }
 }
 else // kalau "id"nya tidak sama
@@ -186,5 +185,5 @@ echo "&lt;input type=\\"radio\\" name=\\"jawab_$soal_nomor\\" value=\\"$id\\"&gt
 $nomor++; // nomor urut soal, hanya tampilan saja
 }
 ?&gt;
-[/sourcecode]
-Oke deh, selamat mencoba, dont hestitate to reply klo ketemu bug :D
+
+Oke deh, selamat mencoba, don&#8217;t hestitate to reply klo ketemu bug :D

@@ -1,6 +1,5 @@
 title:When you read this..
 date:2007-09-21 14:44:38
-status:draft
 
 Mungkin dakuw bukan disini, tapi disana :D
 

@@ -1,6 +1,5 @@
 title:Keuntungan Tidak Terkenal
 date:0000-00-00 00:00:00
-status:draft
 
 Dikantor tempat mamah bekerja, hirarki koneksi internet telah disusun sedemikian rupa agar melakukan bloking terhadap situs-situs tertentu seperti (mungkin) Friendster, Blogspot (yang ini pasti), serta mungkin juga layanan lainnya seperti instant messenger dan IRC. Alasannya belum pasti apa, tapi kebijaksanaan seperti ini memang sering ditemui diberbagai instansi dan perusahaan dengan tujuan agar aktivitas dan konsentrasi bisa terpusat kepada pekerjaan. Itulah mengapa layanan-layanan internet yang bersifat adiktif dan (mungkin) tidak memberi manfaat kepada perusahaan akan diblok.
 

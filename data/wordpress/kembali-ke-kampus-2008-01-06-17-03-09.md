@@ -1,9 +1,8 @@
 title:Kembali kekampus
 date:2008-01-06 17:03:09
-status:draft
 
-Akhirnya, setelah liburan selama kurang lebih satu setengah bulan, aku balik juga ke kampus. Tidak puas rasanya liburan kali ini, masih banyak masa-masa indah yang ingin dilewatkan bersama keluarga dan orang-orang tersayang di tempat kelahiran, mulai dari masak sendiri di dapur (aku emang hobi masak-masakan di dapur), nonton tipi sambil kakinya diangkat ke atas meja, nyetel musik kenceng-kenceng pakai speaker 5.1 di kamar, nonton empat mata, nganter mamahkuw jalan-jalan tiap hari, banyak banget deh. Makanya kemarin sempat sedih aja pas mau berangkat, kok masa-masa ini berlalu begitu cepat ya..<!--more-->
-
+Akhirnya, setelah liburan selama kurang lebih satu setengah bulan, aku balik juga ke kampus. Tidak puas rasanya liburan kali ini, masih banyak masa-masa indah yang ingin dilewatkan bersama keluarga dan orang-orang tersayang di tempat kelahiran, mulai dari masak sendiri di dapur (aku emang hobi masak-masakan di dapur), nonton tipi sambil kakinya diangkat ke atas meja, nyetel musik kenceng-kenceng pakai speaker 5.1 di kamar, nonton empat mata, nganter mamahkuw jalan-jalan tiap hari, banyak banget deh. Makanya kemarin sempat sedih aja pas mau berangkat, kok masa-masa ini berlalu begitu cepat ya..
+<!--more-->
 Tapi kembali ke kampus bukan berarti kembali ke penderitaan, disini juga ada segudang kegiatan yang bisa membuatku sibuk. Ada kurang lebih 4-5 subject yang ada di semester ini, belum lagi research-research pribadiku (halah gaya pake research segala :p). Aku disini kan juga buat mengejar impian, hehehe...
 
 Jadi hari ini udah ada di kampus. Tadi pagi kira-kira pukul 05.00 dini hari udah berangkat dari Kalimantan, naik bis yang jalannya bener-bener lamban (untung nggak telat pesawat), trus nunggu flight berjam-jam, trus sampai di Jakarta, sempat ngurus fiskal dan cek in yang repotnya setengah mati. Trus nunggu flightnya lagi berjam-jam juga, sampe perut keroncongan. Untungnya pas nyampe di KL urusan jadi lebih enak, imigrasi lancar, tukar uang lancar, cari taksi lancar, kartu hape juga masih bisa dipake (dan masih ada pulsanya).

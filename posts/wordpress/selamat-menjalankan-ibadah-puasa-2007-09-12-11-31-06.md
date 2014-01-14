@@ -1,6 +1,5 @@
 title:Selamat Menjalankan Ibadah Puasa
 date:2007-09-12 11:31:06
-status:draft
 
 Gak kerasa besok (13 September 2007) adalah hari pertama puasa. Tahun ini dakuw puasa sendirian di kampus. Disini buka puasanya kira2 jam 19.21 dan waktu imsak kira2 5.40.
 

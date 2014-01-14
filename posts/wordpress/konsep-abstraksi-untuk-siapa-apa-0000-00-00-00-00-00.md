@@ -1,9 +1,9 @@
 title:Konsep Abstraksi, untuk siapa/apa?
-date:0000-00-00 00:00:00
-status:draft
+date:2008-03-04
 
-
-<blockquote> Abstraction is the process or result of generalization by reducing the information content of a concept or an observable phenomenon, typically in order to retain only information which is relevant for a particular purpose. For example, abstracting a leather soccer ball to a ball retains only the information on general ball attributes and behaviour. Similarly, abstracting an emotional state to happiness reduces the amount of information conveyed about the emotional state. Computer scientists use abstraction to understand and solve problems and communicate their solutions with the computer in some particular computer language.</blockquote>
+<blockquote>
+ Abstraction is the process or result of generalization by reducing the information content of a concept or an observable phenomenon, typically in order to retain only information which is relevant for a particular purpose. For example, abstracting a leather soccer ball to a ball retains only the information on general ball attributes and behaviour. Similarly, abstracting an emotional state to happiness reduces the amount of information conveyed about the emotional state. Computer scientists use abstraction to understand and solve problems and communicate their solutions with the computer in some particular computer language.
+</blockquote>
 Abstraksi adalah pengkapsulan sesuatu, serta menyediakan interfacenya kepada client untuk menyembunyikan kompleksitas didalamnya. Kenapa ada abstraksi?. Karena pekerjaan abstraksi adalah menterjemahkan perintah kita (yang diambil dari interface) kedalam beberapa jenis dialek/bahasa/cara secara berbeda-beda, tergantung dari apa yang abstraksi hadapi.
 
 Contoh kasus : Seorang atasan ingin menyapa semua orang jepang, cina, dan rusia yang ada di kantornya, karena dia tidak menguasai beragam bahasa, maka dia menyuruh sekretarisnya untuk menyapa orang-orang tersebut.

@@ -1,12 +1,12 @@
 title:Anggota DPRD Gagap Teknologi, E-mail Disangka Barang
 date:2007-07-12 05:19:04
-status:draft
 
-<p class="main">ANGGOTA DPRD Samarinda ternyata tergolong ketinggalan kemajuan dan gagap teknologi, khususnya dalam pemanfaatan surat elektronik (electronic mail atau e-mail) dalam berkomunikasi. Teknologi yang memanfaatkan komputer dan jaringan internet dan sudah dikenal bahkan oleh pelajar SMM inii bahkan tidak dikenal sebagian anggota Dewan. Sehingga ketika ditanya sudahkah punya e-mail, jawabannya justru mengundang tawa.
+<p class="main">
+ ANGGOTA DPRD Samarinda ternyata tergolong ketinggalan kemajuan dan gagap teknologi, khususnya dalam pemanfaatan surat elektronik (electronic mail atau e-mail) dalam berkomunikasi. Teknologi yang memanfaatkan komputer dan jaringan internet dan sudah dikenal bahkan oleh pelajar SMM inii bahkan tidak dikenal sebagian anggota Dewan. Sehingga ketika ditanya sudahkah punya e-mail, jawabannya justru mengundang tawa.
 
-Saya pernah punya, tapi sudah dijual, ujar Didik Sugiarto, anggota Komisi D dari Fraksi AKU dengan gaya meyakinkan seolah-olah e-mail adalah barang berwujud fisik yang bisa dipindahtangankan. Wakil Ketua Dewan, Hairul Anwar setali tiga uang. Awalnya jawabannya terasa wajar, namun belakangan sama sekali tidak nyambung.
+&#8220;Saya pernah punya, tapi sudah dijual,&#8221; ujar Didik Sugiarto, anggota Komisi D dari Fraksi AKU dengan gaya meyakinkan seolah-olah e-mail adalah barang berwujud fisik yang bisa dipindahtangankan. Wakil Ketua Dewan, Hairul Anwar setali tiga uang. Awalnya jawabannya terasa wajar, namun belakangan sama sekali tidak &#8216;nyambung.
 
-Secara pribadi saya belum memilikinya. Bukannya saya tidak mampu untuk memilikinya, namun saya masih cinta produk dalam negeri, katanya seolah-seolah e-mail adalah barang dari luar negeri. Buat apa kita membanggakan produk luar, lihat saja HP (handphone) saya masih model lama, tuturnya sok yakin.
+&#8220;Secara pribadi saya belum memilikinya. Bukannya saya tidak mampu untuk memilikinya, namun saya masih cinta produk dalam negeri,&#8221; katanya seolah-seolah e-mail adalah barang dari luar negeri. &#8220;Buat apa kita membanggakan produk luar, lihat saja HP (handphone) saya masih model lama,&#8221; tuturnya sok yakin.
 
 Tak hanya Didik dan Hairul, 9 anggota Dewan lainnya pun tak kenal atau tidak punya e-mail. Jika itu terjadi di generasi tua seperti H Nichlan yang usianya sudah 70-an, mungkin masih wajar. Namun yang muda-muda seperti Sukardi Surbakti dan Blasius Watu pun tak menyentuh sarana informasi yang efisien dan efektif ini. Begitu juga A Marcus Incau, Mardiah Mulyani, Sabri, Riyanto Rais, Arifin Idris dan Hamzah.
 
@@ -22,6 +22,7 @@ Blasius Watu: Sekarang ini belum punya, sebab saya tidak ingin punya nafsu besar
 
 Riyanto Rais: E-mail memang perlu dan ini akan menjadi masukan buat kami untuk secepatnya mengadakan internet di tempat kami. Dulu sempat pasang di sekretariat tapi nggak tahu kemudian tidak bisa di akses lagi.
 
-Sedangkan Sabri dan Sukardi Surbakti yang mengakui memang penting memiliki e-mail, dan keinginan membuatnya, namun di rumah keduanya tidak ada akses telepon. Di Palaran memang belum ada, kata Sukardi menyebut domisilinya. (*/gs)
+Sedangkan Sabri dan Sukardi Surbakti yang mengakui memang penting memiliki e-mail, dan keinginan membuatnya, namun di rumah keduanya tidak ada akses telepon. &#8220;Di Palaran memang belum ada,&#8221; kata Sukardi menyebut domisilinya. (*/gs)
 
 dikutip dari www.kaltimpost.web.id
+</p>

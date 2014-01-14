@@ -1,8 +1,7 @@
 title:General functions in a class
 date:0000-00-00 00:00:00
-status:draft
 
- Dari dulu aku punya kebiasaan yang (mungkin) cukup aneh : semua fungsi general seperti string utility, advanced math functions, i/o functions dikapsulkan dalam sebuah kelas. Biasanya kelas ini aku beri nama CUtils. Kenapa aneh? setidaknya menurutku, aku sering melihat dan menemukan kode berisi kumpulan fungsi umum yang "telanjang", dalam artian tidak memiliki class, sehingga terlihat (agak) tidak terklasifikasi. Yang paling dekat dengan "tidak telanjang" adalah penggunaan prefix pada tiap nama fungsi.
+Dari dulu aku punya kebiasaan yang (mungkin) cukup aneh : semua fungsi general seperti string utility, advanced math functions, i/o functions dikapsulkan dalam sebuah kelas. Biasanya kelas ini aku beri nama CUtils. Kenapa aneh? setidaknya menurutku, aku sering melihat dan menemukan kode berisi kumpulan fungsi umum yang "telanjang", dalam artian tidak memiliki class, sehingga terlihat (agak) tidak terklasifikasi. Yang paling dekat dengan "tidak telanjang" adalah penggunaan prefix pada tiap nama fungsi.
 
 Everyone has their own style, kenapa aku lebih suka mengkapsulkannya dalam class?. Aku sering membuat hand-made function yang memungkinkan namanya bisa bentrok dengan general function milikku. Kalau harus menggunakan prefix, aku sering membayangkan jika memiliki puluhan fungsi dan ingin mengganti prefixnya satu-persatu :roll::
 

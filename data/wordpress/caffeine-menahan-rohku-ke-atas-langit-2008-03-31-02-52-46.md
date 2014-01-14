@@ -1,6 +1,5 @@
 title:Caffeine menahan rohku ke atas langit
 date:2008-03-31 02:52:46
-status:draft
 
 3 jam yang lalu, sebenarnya adalah waktu kosong yang bisa kupakai untuk tidur. Sudah nyaris 3 hari aku tidak memejamkan mata dan mengistirahatkan badan, kode dan deadline berputar-putar dikepalaku..,argh.. kenapa bisa selemah ini, padahal ada orang lain yang bisa lebih tahan daripada aku.
 

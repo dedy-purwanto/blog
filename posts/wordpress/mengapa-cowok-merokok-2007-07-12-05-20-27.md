@@ -1,8 +1,8 @@
 title:Mengapa Cowok Merokok?
 date:2007-07-12 05:20:27
-status:draft
 
-<p class="main">1. Perokok pasif lebih berbahaya daripada perokok aktif, maka untuk mengurangi resiko tersebut aktiflah merokok.
+<p class="main">
+ 1. Perokok pasif lebih berbahaya daripada perokok aktif, maka untuk mengurangi resiko tersebut aktiflah merokok.
 
 2. Menghindarkan dari perbuatan jahat karena tidak pernah ditemui orang yang membunuh, mencuri dan berkelahi sambil merokok.
 
@@ -34,7 +34,7 @@ status:draft
 
 16. Anti maling, waktu perokok batuk berat di malam hari.
 
-17. Membantu shooting film keji, rokok digunakan penjahat buat nyundut jagoan yang terikat di kursi Ha penderitaan itu pedih, jendral!!!
+17. Membantu shooting film keji, rokok digunakan penjahat buat nyundut jagoan yang terikat di kursi&#8230; Ha penderitaan itu pedih, jendral&#8230;!!!
 
 18. Film Koboi pasti lebih gaya kalau merokok sambil naik kuda, soalnya kalau sambil ngupil susah betul.
 
@@ -42,6 +42,7 @@ status:draft
 
 20. Bahan inspirasi dan pendukung membuat Tugas Akhir, sehingga seharusnya dicantumkan ucapan terima kasih untuk rokok pada kata sambutan.
 
-21. Film lebih cool soalnya kalo meledakan mobil atau pom bensin butuh rokok yang disentil ke bensin yang tercecer, KABOOM!!!
+21. Film lebih cool soalnya kalo meledakan mobil atau pom bensin butuh rokok yang disentil ke bensin yang tercecer, KABOOM&#8230;&#8230;&#8230;!!!
 
 source : e-samarinda
+</p>

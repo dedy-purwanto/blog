@@ -1,11 +1,10 @@
 title:Mulai Menulis Lagi
 date:2010-09-19 17:20:37
-status:draft
 
 Cukup lama saya tidak menulis artikel baru, entry terakhir yang saya buat adalah Juni 2009, dan sekarang sudah pertengahan September 2010. Sebenarnya masih ada beberapa draft tulisan yang ingin saya publish, tapi sampai sekarang tidak juga saya teruskan.
 
-Sebenarnya ada banyak sekali alasan saya berhenti menulis, mulai dari kesibukan, jenuh, dan lain sebagainya. Tapi hal-hal tersebut biasanya bisa saya atasi. Ada satu hal utama yang membuat saya berhenti menulis: Saya ingin mendapatkan privasi lebih.<!--more-->
-
+Sebenarnya ada banyak sekali alasan saya berhenti menulis, mulai dari kesibukan, jenuh, dan lain sebagainya. Tapi hal-hal tersebut biasanya bisa saya atasi. Ada satu hal utama yang membuat saya berhenti menulis: Saya ingin mendapatkan privasi lebih.
+<!--more-->
 Pada saat saya menulis beberapa entry terakhir saya di tahun 2009, saya sudah berhenti menulis tentang hidup keseharian saya, semua artikel yang ada di pertengahan tahun 2009 membahas tentang teknologi dan berita. Saat itu saya merasa harus berhenti untuk menulis tentang keseharian, menulis tentang apa saja yang saya hadapi dan rasakan. Semakin waktu berjalan, semakin saya merasa artikel-artikel seperti ini sangat sensitif, saya semakin merasa risih jika ada orang lain tahu apa yang saya lakukan atau hadapi.
 
 Tidak hanya melalui blog, saya pun mulai berhenti menuliskan hal-hal keseharian saya melalui friendster (saat itu saya masih aktif di FS), facebook dan twitter. Kalaupun saya menulis entry baru, biasanya hanya berisikan tentang hal-hal yang sangat umum atau quote dan link yang menurut saya menarik, dan tidak ada hubungannya dengan kehidupan pribadi saya.
