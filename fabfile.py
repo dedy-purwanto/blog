@@ -6,13 +6,18 @@ from subprocess import call
 import re
 from urllib import urlretrieve
 
-def build():
-    local("pelican . -o build/ -s data/pelican.conf.py")
+def build(production=False):
+    if production:
+        settings = "data/settings-production.py"
+    else:
+        settings = "data/settings.py"
+    command = "pelican . -o build/ -s %s" % settings
+    local(command)
     local("cp -r data/media/* build/")
 
 def deploy():
     print "Deploying..\n"
-    build()
+    build(production=True)
 
     with lcd("build/"):
         local("git add .")

@@ -5,7 +5,7 @@
 
 AUTHOR = u"Dedi Purwanto"
 SITENAME = u"Dedi Purwanto"
-SITEURL = 'http://localhost:9000/'
+SITEURL = 'http://localhost:9000'
 SITETAGLINE = u""
 FOOTERTEXT = u"&copy; Dedi Purwanto. "
 
