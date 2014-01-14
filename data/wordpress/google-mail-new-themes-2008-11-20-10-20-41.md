@@ -1,0 +1,11 @@
+title:Google Mail new themes
+date:2008-11-20 10:20:41
+status:draft
+
+Setelah bertahun-tahun berstatus BETA, tampilan <a href="http://mail.google.com">GMail</a> tidak pernah berubah. Tapi pagi ini saat saya cek email, ternyata ada notifikasi bahwa GMail telah menambahkan fitur theme, tampilan GMail saya juga sudah berubah menjadi theme default yang baru.
+
+Penasaran, saya lihat dibagian Settings, ternyata ada satu tab baru yaitu Themes. Cukup banyak theme yang diberikan, beberapa theme bisa mengikuti waktu setempat yang telah kita setup berdasarkan nama negara dan kota. Contohnya, jika siang hari maka beberapa theme akan menampilkan suasana siang. Ini contoh theme yang saya gunakan:
+
+[caption id="attachment_651" align="alignnone" width="300" caption="Klik untuk melihat ukuran penuh"]<a href="http://kecebongsoft.files.wordpress.com/2008/11/gmail.jpg"><img class="size-medium wp-image-651" title="gmail" src="http://kecebongsoft.files.wordpress.com/2008/11/gmail.jpg?w=300" alt="Klik untuk melihat ukuran penuh" width="300" height="144" /></a>[/caption]
+
+Well, I think this is a kind of a big change. Secara saya udah cukup bosan dengan tampilan lama, theme baru yang banyak dan cukup bagus ini harusnya bisa membuat user lama lebih betah serta menarik user-user baru untuk bergabung, congrats to Google!.
