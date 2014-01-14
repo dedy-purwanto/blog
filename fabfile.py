@@ -1,8 +1,6 @@
 from fabric.api import local, lcd
 from bs4 import BeautifulSoup
 from slugify import slugify
-import os
-from subprocess import call
 import re
 from urllib import urlretrieve
 
@@ -29,7 +27,7 @@ def deploy():
 
 def import_tumblr():
     doc = BeautifulSoup(open('data/tumblr.xml', 'r'))
-    call('mkdir data/tumblr'.split(' '))
+    local('mkdir data/tumblr'.split(' '))
 
     for item in doc.findAll('item'):
         date = item.find("wp:post_date").text
@@ -53,7 +51,7 @@ def wp_download_media():
         url = img.group()
         if url not in urls: urls.append(url)
 
-    call('mkdir data/wp_media'.split(' '))
+    local('mkdir data/wp_media'.split(' '))
     for url in urls:
         dest = url.split('/')[-3:]
         dest = 'data/wp_media/%s' % '-'.join(dest)
