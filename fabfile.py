@@ -7,7 +7,7 @@ import re
 from urllib import urlretrieve
 
 def build():
-    local("pelican . -o build/ -s pelican.conf.py")
+    local("pelican . -o build/ -s data/pelican.conf.py")
     local("cp -r data/media/* build/")
 
 def deploy():
