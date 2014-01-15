@@ -48,16 +48,6 @@ kata, sesungguhnya saya hanyalah
 </strike>
 manusia biasa.
 
-Buat
-<a href="http://chrisnanice.blogspot.com/">
- mamahkuw
-</a>
-, maapin ya klo selama ini ada salah-salah ucap dan salah-salah
-<strike>
- pegang
-</strike>
-sikap, maapin ya semuanya :D
-
 Tak lupa buat babe en mami di rumah
 <strike>
  kalo ini sih bisa ngomong langsung
