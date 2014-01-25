@@ -1,15 +1,41 @@
-from fabric.api import local, lcd, warn_only, env
+import os
+import sys
+import re
+from datetime import datetime
+
 from bs4 import BeautifulSoup
 from slugify import slugify
-import re
 from urllib import urlretrieve
+from fabric.api import local, lcd, warn_only, env
 
 env.BUILD_POOL = False
+
+
+# Check all possible changes in the sub path,
+# it will not detect changes of files in the root path
+def run_build_server():
+    def path_checker():
+        t = 0
+        while True:
+            t_new = os.path.getmtime((yield))
+            if t < t_new: t = t_new; build()
+
+    paths = []
+    base_path = os.path.abspath(os.path.dirname(__file__))
+    for dn, dns, fns  in \
+        os.walk(base_path):
+        paths.extend([os.path.join(dn, sdn) for sdn in dns])
+
+    checker = path_checker()
+    checker.next()
+    while True:
+        for p in paths: checker.send(p)
 
 def pool():
     env.BUILD_POOL = True
 
 def build(production=False):
+    sys.stdout.write("==== Build starts on %s ====\n" % datetime.now())
     args = "-r" if env.BUILD_POOL else ""
     if production:
         settings = "data/settings-production.py"
@@ -20,6 +46,7 @@ def build(production=False):
     print command
     local(command)
     local("cp -r data/media/* build/")
+    sys.stdout.write("==== Build ends on %s ====\n" % datetime.now())
 
 def deploy():
     print "Deploying..\n"
