@@ -10,19 +10,35 @@
                 <h1>
                     <a href="{{ SITEURL }}" id="site-title">{{ SITENAME }} {% if SITESUBTITLE %} <strong>{{ SITESUBTITLE }}</strong>{% endif %}</a>
                     <span style='font-size:11px;color:#cfcfcf;'>-</span>
-                    <a href='/2010/01/about.html' class='site-links'>About</a>
-                    <a href='/archives.html' class='site-links'>Archive</a>
+                    <a href='/2010/01/about.html' class='site-links'>Tentang saya</a>
+                    <a href='/archives.html' class='site-links'>Arsip</a>
                     <br /> <br /> <br />
                     <a href="{{ SITEURL }}/{{ article.url }}" id="page-title">{{ article.title }}</a></h1>
                     {% if not HIDE_DATE %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{% endif %}
             </header>
 
+            <style>
+            article p{margin-bottom:0px;}
+            </style>
             <article>
-
-                {{ article.content }}{% include 'comments.html' %}
+                {{ article.summary }}
             </article>
+            <a href='{{ article.url }}'>Baca selengkapnya</a>
+            <br />
+            <br />
+            <header>
+                <hr style="height: 1px; border: none; background-color: #c0c0c0; ">
+                <h2 style=" padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; ">
+                    Tulisan sebelumnya..
+                </h2>
+            </header>
+        {% else %}
+            {% if loop.index < 8 %}
+                <a href="{{ article.url }} ">{{article.title}}</a><br />
+            {% endif %}
         {% endif %}
     {% endfor %}
+    <br />
     {% if loop.length > 1 %}
         </section><!-- #article-list -->
     {% endif %}
