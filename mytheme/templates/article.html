@@ -12,7 +12,6 @@
         {% if not HIDE_DATE %}<time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>{% endif %}
 </header>
 <article>
-    {{ article.summary }}
     {{ article.content }}
 </article>
 {% endblock %}
