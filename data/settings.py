@@ -9,9 +9,9 @@ SITEURL = 'http://localhost:9000'
 SITETAGLINE = u""
 FOOTERTEXT = u"&copy; Dedi Purwanto. "
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Asia/Kuala_Lumpur'
 
-DEFAULT_LANG='en'
+DEFAULT_LANG='id'
 
 LINKS = (
          )
