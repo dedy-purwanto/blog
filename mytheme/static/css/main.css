@@ -212,3 +212,10 @@ strong{
     font-family:"Sanchez";
 
 }
+
+blockquote p{
+    font-style:italic;
+    font-size:15px;
+    font-weight:bold;
+
+}
