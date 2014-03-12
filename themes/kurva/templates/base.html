@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]>
+<html class="ie" dir="ltr" lang="en-US">
+<![endif]-->
+<!--[if ! lt IE 8 ]><!-->
+<html dir="ltr" lang="en-US">
+<!--<![endif]-->
+
+<head>
+<meta charset="UTF-8" />
+<link rel="stylesheet" media="all" href="{{ SITEURL }}/theme/css/style.css" />
+<script>
+var templateDir = "{{ SITEURL }}/theme/";
+// make windows load system fonts
+if(navigator.appVersion.indexOf("Win") != -1) {
+    var windowsCss = document.createElement("link");
+
+    windowsCss.setAttribute("rel", "stylesheet");
+    windowsCss.setAttribute("media", "all");
+    windowsCss.setAttribute("href", "{{ SITEURL }}/theme/css/windows.css");
+
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(windowsCss);
+
+    windows = true;
+
+} else {
+    var fontCss = document.createElement("link");
+
+    fontCss.setAttribute("rel", "stylesheet");
+    fontCss.setAttribute("media", "all");
+    fontCss.setAttribute("href", "{{ SITEURL }}/theme/css/fonts-1-2.css");
+
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(fontCss);
+}
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+
+<link href="{{ SITEURL }}/{{ FEED }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} ATOM Feed" />
+{% if FEED_RSS %}
+<link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+{% endif %}
+
+<!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <article id='content'>
+        <header> <a id="logo" href="{{ SITEURL }}">{{ SITENAME }}</a> </header>
+        {% block content %}
+        {% endblock %}
+    </article>
+
+
+    <footer>
+        <h1 class="section_separator"><span></span></h1>
+        <nav>
+            <a href='/2010/01/about.html' class='site-links'>Siapa saya</a>&nbsp;|&nbsp;
+            <a href='/archives.html' class='site-links'>Arsip tulisan</a>
+        </nav>
+        <span>&copy;&nbsp;2004-2014 Dedi Purwanto</span>
+    </footer>
+
+{% include 'analytics.html' %}
+{% include 'piwik.html' %}
+{% include 'disqus_script.html' %}
+</body>
+</html>

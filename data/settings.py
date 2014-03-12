@@ -4,7 +4,7 @@
 #from pelican.settings import _DEFAULT_CONFIG
 
 AUTHOR = u"Dedi Purwanto"
-SITENAME = u"Dedi Purwanto"
+SITENAME = u"Dedi P."
 SITEURL = 'http://localhost:9000'
 SITETAGLINE = u""
 FOOTERTEXT = u"&copy; Dedi Purwanto. "
@@ -36,18 +36,18 @@ FEED_DOMAIN = 'http://kecebongsoft.com'
 THEME = 'notmyidea'
 
 PAGE_EXCLUDES = (
-            'mytheme',
+            'themes',
             'build',
             'data',
         )
 
 ARTICLE_EXCLUDES = (
-            'mytheme',
+            'themes',
             'build',
             'data',
         )
 
 #DISQUS_SITENAME = 'kecebongsoft'
-THEME = 'mytheme'
+THEME = 'themes/kurva'
 #GITHUB_URL = 'https://github.com/kecebongsoft'
 GOOGLE_ANALYTICS = 'UA-36468240-1'

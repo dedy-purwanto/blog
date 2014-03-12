@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ super() }} : {{ article.title }}{% endblock %}
+{% block content %}        
+
+<section id="post">
+    <h1 class="section_separator">
+        <span>{{ article.locale_date }}</span>
+    </h1>
+    <article id="post-9337" class="post">
+
+        <h1 class="post_title">{{ article.title }}</h1>
+        {{ article.content }}
+        <span class="post_fleuron symbol">Ð</span>
+
+    </article>
+
+</section>
+
+{% endblock %}

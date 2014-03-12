@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}        
+{% if articles %}
+    {% for article in articles %}        
+
+        {# First item #}
+        {% if loop.first %}
+
+            <section id="posts">
+                <article class="blog_post">
+                <h1 class="section_separator">
+                    <span>{{ article.locale_date }}</span>
+                </h1>
+                    <h2 class="blog_post_title"><a href='{{ article.url }}'>{{ article.title }}</a></h2>
+                    <p class='blog_post_content'>
+                    {{ article.summary }}
+                    </p>
+                </article>
+            </section>
+
+            <section id="post">
+                <h1 class="section_separator">
+                    <span>Tulisan sebelumnya</span>
+                </h1>
+                <article id="post-9337" class="post" style='text-align:center'>
+        {% else %}
+            {% if loop.index < 8 %}
+                <a href="{{ article.url }} ">{{article.title}}</a><br />
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+    {% if loop.length > 1 %}
+        </article>
+        </section><!-- #article-list -->
+    {% endif %}
+{% else %}
+    Tidak ada artikel
+{% endif %}
+{% endblock content %}
