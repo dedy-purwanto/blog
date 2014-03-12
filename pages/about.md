@@ -1,25 +1,17 @@
-title: about
-date:01-01-2010
+title: Tentang Saya
+slug: about
+date:01-01-2001
 
-Hello,
+Halo, saya Dedi Purwanto.
 
-I'm Dedi.
+Saya saat ini bekerja sebagai software engineer di [easyuni](http://www.easyuni.com). Di waktu luang saya menyempatkan diri untuk menulis dan berbagi pandangan.
 
-I mostly code web applications in Django.
+Saya sebagian besar bekerja dengan Python dan Django.
 
-I'm currently working at [easyuni](http://www.easyuni.com) for almost 3 years.
+Saya terlahir di Samarinda, Indonesia; sekolah di SMKTI Airlangga Samarinda, lalu melanjutkan studi software engineering di INTI International University Malaysia. Saat ini tinggal di Kuala Lumpur, Malaysia.
 
-I'm currently using [Macbook Air](http://www.apple.com/macbook-air/), [Happy Hacking Keyboard Professional 2](http://en.wikipedia.org/wiki/Happy_Hacking_Keyboard), [iTerm2](http://www.iterm2.com), [vim](http://www.vim.org/), [git](http://www.git-scm.com/), [dropbox](http://www.dropbox.com/), and [notational velocity](http://www.notational.net/)
+Saya juga ada di [Twitter](https://twitter.com/kecebongsoft), [Facebook](http://facebook.com/kecebongsoft/), [github](https://github.com/kecebongsoft), dan [Google+](https://plus.google.com/u/0/105581558374023241765).
 
-I was born in Samarinda, Indonesia.
+Blog ini dibuat menggunakan [pelican](http://www.getpelican.com).
 
-I enrolled to Vocational High School of Information Technology - SMKTI Airlangga
-
-I took a Software Engineering Degree in Malaysia
-
-I currently live in Kuala Lumpur, Malaysia. 
-
-You can also find me in [Twitter](https://twitter.com/kecebongsoft), [github](https://github.com/kecebongsoft), and [Google+](https://plus.google.com/u/0/105581558374023241765)
-
-This blog is powered by [pelican](http://www.getpelican.com) and my own custom theme.
-
+Semua tulisan disini adalah murni pandangan pribadi saya dan tidak merepresentasikan pihak manapun.
