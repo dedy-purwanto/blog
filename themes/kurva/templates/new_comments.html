@@ -2,11 +2,14 @@
 $(function(){
 
     function format_comment(name, comment, comment_date) {
-        return  "<div class='comment'><strong>" + name + "</strong><br />" + 
-            "<p>" + comment + "</p>" + "<i>" + comment_date + "</i></div>";
+        moment.lang('id');
+        comment_date = moment(comment_date);
+
+        return  "<div class='comment' style='margin-bottom:20px;'><span style='font-weight:bold;'>" + name + "</span> " + 
+        "<span style='color:#acacac'>" + comment_date.format('Do MMMM YYYY') + "</span><br />" + "<p style='color:#8a8a8a'>" + comment + "</p></div>";
     }
 
-    $.getJSON("http://localhost:9080/get/?url={{ article.url }}", function(data){
+    $.getJSON("http://kecebongsoft-blog-comments.appspot.com/get/?url={{ article.url }}", function(data){
         comments = data['comments'];
 
         form_html = "<form method='post' action=''>" +
@@ -56,7 +59,7 @@ $(function(){
             }else{
                 console.log($name.val());
                 console.log($comment.val());
-                $.getJSON('http://localhost:9080/post/?url={{ article.url }}&name=' + 
+                $.getJSON('http://kecebongsoft-blog-comments.appspot.com/post/?url={{ article.url }}&name=' + 
                     $name.val() + '&comment=' + $comment.val(), function(new_comment){
 
                     $("#comments #comment_list #comments").prepend(format_comment(new_comment['name'], new_comment['comment'], new_comment['date']));
