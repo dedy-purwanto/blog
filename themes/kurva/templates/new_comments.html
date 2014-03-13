@@ -1,11 +1,80 @@
 <script>
 $(function(){
+
+    function format_comment(name, comment, comment_date) {
+        return  "<div class='comment'><strong>" + name + "</strong><br />" + 
+            "<p>" + comment + "</p>" + "<i>" + comment_date + "</i></div>";
+    }
+
     $.getJSON("http://localhost:9080/get/?url={{ article.url }}", function(data){
-        if (data.length > 0) {
+        comments = data['comments'];
+
+        form_html = "<form method='post' action=''>" +
+            "<input type='text' id='name' name='name' placeholder='Nama' style='border:none;background-color:inherit;border-bottom:1px dotted #acacac;width:100%' ><br />" +
+            "<textarea name='comment' id='comment' placeholder='Komentar' style='border:none;background-color:inherit;border-bottom:1px dotted #acacac;width:100%;height:70px;'></textarea><br />" +
+            "<div style='float:right'><a id='comment_submit' href='#'>Kirim</a></div>" +
+            "<div style='clear:both;'></div>" + 
+            "</form>";
+            
+        
+        comment_list = "";
+        comment_list += "<div id='comment_list'>";
+        comment_list += "<div id='form'>" + form_html + "</div><div id='comments'>";
+        if (comments.length > 0) {
+
+            $("#comments").append("" +
+                "<h3 style='text-align:center;'>" +
+                    "<a href='#' id='comments_toggle'>Lihat komentar (" + comments.length + ")</a>" +
+                    "</h3>");
+
+
+
+
+            for (i = 0; i < comments.length ; i += 1 ) {
+                c = comments[i];
+                comment_list += format_comment(c['name'], c['comment'], c['date']);
+            }
+
+
+
 
         } else {
-            $("#comments").html("<h3 style='text-align:center;'>Kirim komentar</h3>");
+            $("#comments").append("<h3 style='text-align:center;'><a href='#' id='comments_toggle'>Kirim komentar</a></h3>");
         }
+
+        comment_list += "</div></div>";
+        $("#comments").append(comment_list);
+
+        $("#comments #comment_list #form #comment_submit").click(function(e){
+            e.preventDefault();
+
+            $name = $("#comments #comment_list #form form #name");
+            $comment = $("#comments #comment_list #form form #comment");
+
+            if ($name.val() == '' || $comment.val() == '') {
+                console.log('type first');
+            }else{
+                console.log($name.val());
+                console.log($comment.val());
+                $.getJSON('http://localhost:9080/post/?url={{ article.url }}&name=' + 
+                    $name.val() + '&comment=' + $comment.val(), function(new_comment){
+
+                    $("#comments #comment_list #comments").prepend(format_comment(new_comment['name'], new_comment['comment'], new_comment['date']));
+
+                    $name.val('');
+                    $comment.val('');
+                });
+
+            }
+
+            return false;
+        });
+        $("#comments #comment_list").hide();
+        $("#comments_toggle").click(function(e){
+            e.preventDefault();
+            $("#comment_list").show();
+            return false;
+        });
     });
 
 });
