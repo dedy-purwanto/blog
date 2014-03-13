@@ -1,0 +1,12 @@
+<script>
+$(function(){
+    $.getJSON("http://localhost:9080/get/?url={{ article.url }}", function(data){
+        if (data.length > 0) {
+
+        } else {
+            $("#comments").html("<h3 style='text-align:center;'>Kirim komentar</h3>");
+        }
+    });
+
+});
+</script>
