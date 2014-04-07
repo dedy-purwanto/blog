@@ -4,7 +4,7 @@ slug: ponsel-pintar
 
 ## _Lalu lintas di jalan raya sudah menyepi, waktu menunjukan pukul 3 pagi. Belasan halaman web tentang smartphone yang gagal charge  masih terbuka di laptop sembari saya sesekali mengutak-atik smartphone saya yang sudah mati berhari-hari. Saya mulai sering bertanya apakah saya benar-benar butuh smartphone?_
 
-3 tahun lalu dibulan Agustus, saya mendapatkan smartphone pertama saya setelah berbulan-bulan menabung dan membaca berbagai artikel tentang perangkat "pintar" ini. 3 tahun lalu adalah salah satu awal dari era ke-emasan gadget pintar, saat itu saya tidak perlu berfikir 2-kali untuk mengambil keputusan bahwa saya benar-benar membutuhkan smartphone.
+3 tahun lalu dibulan Agustus, saya mendapatkan smartphone pertama saya setelah berbulan-bulan (_atau tahun?_) menabung dan membaca berbagai artikel tentang perangkat "pintar" ini. 3 tahun lalu adalah salah satu awal dari era ke-emasan gadget pintar, saat itu saya tidak perlu berfikir 2-kali untuk mengambil keputusan bahwa saya benar-benar membutuhkan smartphone. Saya sempat [membanding-bandingkan beberapa ponsel](/2008/05/sony-ericsson-xperia-x1-saingan-iphone.html), serta mengikuti [kabar terbaru ponsel incaran saya](/2008/11/se-xperia-htc-touch-hd-atau-htc-touch-pro.html) pada waktu itu.
 
 Tidak ada target khusus tentang kapan saat itu saya harus memiliki smartphone, namun beberapa minggu sebelum akhirnya membeli, saya kehilangan ponsel saya di kereta karena kelalaian sendiri; dan petualangan menggunakan smartphone akhirnya dimulai.
 
