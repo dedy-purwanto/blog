@@ -1,5 +1,13 @@
 {% extends "base.html" %}
 {% block title %}{{ super() }} : {{ article.title }}{% endblock %}
+{% block meta %}
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ article.title }}" />
+<meta property="og:description" content="{{ article.summary }}" />
+<meta property="og:url" content="{{ article.url }}" />
+
+{% endblock %}
 {% block content %}        
 
 <section id="post">
