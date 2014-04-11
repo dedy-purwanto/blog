@@ -2,7 +2,7 @@ slug: penjelas-hebat
 title: Penjelas Hebat
 date: 12-04-2014
 
-# _Seringkali ketika mencoba menjelaskan hal-hal kompleks kepada teman atau kolega, saya mendapati diskusi kami berakhir dengan kebingungan, apa selama ini ada yang salah dengan cara saya berkomunikasi?_
+## _Seringkali ketika mencoba menjelaskan hal-hal kompleks kepada teman atau kolega, saya mendapati diskusi kami berakhir dengan kebingungan, apa selama ini ada yang salah dengan cara saya berkomunikasi?_
 
 Saya adalah penggemar berat astronomi dan fisika. Semenjak sekolah dasar saya seringkali larut dalam mata pelajaran fisika dan astronomi, yang waktu itu disebut dengan Ilmu Pengetahuan Alam (IPA). Tanpa sadar saya punya ketertarikan lebih ketika belajar tentang tata-surya, hukum fisika, gravitasi, dan hal-hal sejenisnya; semuanya terdengar seperti dongeng yang nyata.
 
