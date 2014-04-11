@@ -20,16 +20,20 @@ Terkadang saya bertanya, apakah saya bisa seperti seorang Michio Kaku?. Tidak ha
 
 Michio Kaku tentu tidak menggunakan ilmu sihir yang menyulap pendengarnya untuk langsung mengerti. Saya menyadari pastilah ada teknik-teknik tertentu yang dipakai orang-orang seperti beliau dalam berkomunikasi yang efektif. Saya mulai memperhatikan cara beliau berkomunikasi dan sejauh ini yang dapat saya pelajari:
 
-## Jeda di setiap kalimat / jawaban
+*Jeda di setiap kalimat / jawaban*
+
 Seringkali saya menjawab setiap pertanyaan secara instan, atau berbicara dengan cepat, tanpa berfikir panjang tentang apa yang sebenarnya si lawan bicara coba sampaikan, atau apa yang saya sendiri coba sampaikan; hingga akhirnya saya memilih kata-kata yang membuat interpretasi menjadi salah.
 
-## Pengulangan kata
+*Pengulangan kata* 
+
 Terkadang saya menggunakan kata-kata yang sama berulang kali sehingga menambah "polusi" didalam setiap kalimat, dan "polusi" ini membuat inti yang ingin saya sampaikan menjadi buram.
 
-## Kata-kata yang kurang perlu
+*Kata-kata yang kurang perlu*
+
 Tanpa saya sadari, saya seringkali menggunakan kata-kata tambahan yang tidak perlu dalam setiap kalimat, ini juga salah satu bentuk "polusi" yang mengaburkan maksud yang ingin saya sampaikan. Pola seperti "agar supaya" atau "tanpa saya sadari" yang sebenarnya bisa disingkat menjadi "tanpa disadari".
 
-## Tidak ada intonasi dan penekanan
+*Tidak ada intonasi dan penekanan*
+
 Terkadang ketika berbicara dengan cepat, saya gagal menyampaikan bagian mana dari kalimat saya yang paling penting. Saya berbicara dengan nada datar dan setiap kata terdengar sama pentingnya (atau tidak penting sama sekali).
 
 Banyak sekali hal yang saya bisa pelajari dari orang-orang seperti Michio Kaku dan yang lainnya, semoga setiap kali saya mempelajari sesuatu, saya bisa mengambil tidak hanya ilmu yang ingin saya pelajari, tapi juga hal-hal positif disekitarnya.
