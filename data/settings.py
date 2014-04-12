@@ -39,12 +39,14 @@ PAGE_EXCLUDES = (
             'themes',
             'build',
             'data',
+            'drafts',
         )
 
 ARTICLE_EXCLUDES = (
             'themes',
             'build',
             'data',
+            'drafts',
         )
 
 #DISQUS_SITENAME = 'kecebongsoft'
