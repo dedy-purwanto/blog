@@ -1,5 +1,4 @@
 title: Programmer Malas
-date: 09-04-2014
 slug: programmer-malas
 status: draft
 
