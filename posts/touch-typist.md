@@ -2,7 +2,7 @@ title: Programmer dan mengetik
 slug: programmer-dan-mengetik 
 date: 8/06/2014
 
-## _Seorang programmer menemukan sebuah ide, lalu dia mulai menuliskan kode baris demi baris secra perlahan sambil melihat keyboardnya, satu jam kemudian dia berhenti dan membuang idenya, frustasi karena kecepatan mengetiknya tidak bisa mengejar kecepatannya berfikir. Banyak yang tidak menyadari kemampuan mengetik fasih bagi programmer sama halnya seperti mempunyai kaki yang sehat bagi seorang pelari._
+## _Seorang programmer menemukan sebuah ide, lalu dia mulai menuliskan kode baris demi baris secara perlahan sambil melihat keyboardnya, satu jam kemudian dia berhenti dan membuang idenya, frustasi karena kecepatan mengetiknya tidak bisa mengejar kecepatannya berfikir. Banyak yang tidak menyadari kemampuan mengetik fasih bagi programmer sama halnya seperti mempunyai kaki yang sehat bagi seorang pelari._
 
 Perjalanan saya berlatih mengetik cepat dimulai ketika saya belajar pemrograman secara otodidak, pada saat itu, saya seringkali membeli majalah pemrograman yang memuat artikel tentang pembuatan sebuah software, yang mana pada kala itu, source code di lampirkan langsung di majalah tersebut, sehingga saya harus menyalin kodenya baris demi baris. Perlahan tapi pasti, saya mulai mengingat posisi tombol-tombol keyboard dan setelah beberapa bulan, saya mulai fasih mengetik tanpa melihat keyboard.
 
