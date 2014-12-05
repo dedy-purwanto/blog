@@ -3,11 +3,10 @@
 
 #from pelican.settings import _DEFAULT_CONFIG
 
-AUTHOR = u"Dedi Purwanto"
-SITENAME = u"Dedi P."
+AUTHOR = u"Dedy Purwanto"
+SITENAME = u"Dedy Purwanto"
 SITEURL = 'http://localhost:9000'
-SITETAGLINE = u""
-FOOTERTEXT = u"&copy; Dedi Purwanto. "
+SITESUBTITLE = u"&copy;2004-2015 Dedy Purwanto"
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
 
@@ -33,8 +32,6 @@ REVERSE_ARCHIVE_ORDER = True
 
 FEED_DOMAIN = 'http://kecebongsoft.com'
 
-THEME = 'notmyidea'
-
 PAGE_EXCLUDES = (
             'themes',
             'build',
@@ -51,5 +48,8 @@ ARTICLE_EXCLUDES = (
 
 #DISQUS_SITENAME = 'kecebongsoft'
 THEME = 'themes/elegant'
+LANDING_PAGE_ABOUT = {
+        'details': "Seorang programmer, suami dan ayah.  Saya terlahir di Samarinda, Indonesia; sekolah di SMKTI Airlangga Samarinda, lalu melanjutkan studi software engineering di INTI International University Malaysia. Saat ini tinggal di Kuala Lumpur, Malaysia.<br /><br /> Di sela-sela waktu saya menulis tentang komputer dan pemrograman, di waktu lain saya juga menulis tentang perspektif saya terhadap berbagai hal, serta kehidupan personal saya.<br /><br />Saya juga bisa ditemukan di <a href='http://facebook.com/kecebongsoft/'>Facebook</a>, <a href='http://twitter.com/kecebongsoft'>Twitter</a>, dan <a href='http://github.com/kecebongsoft/'>Github</a>. Blog ini dibuat dengan menggunakan Pelican dan Elegance Theme, semua tulisan disini adalah murni milik saya dan tidak mewakili pihak manapun.",
+}
 #GITHUB_URL = 'https://github.com/kecebongsoft'
 GOOGLE_ANALYTICS = 'UA-36468240-1'
