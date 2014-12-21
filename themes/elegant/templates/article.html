@@ -71,6 +71,7 @@
                 <li class="next_article"><a href="{{ SITEURL }}/{{ next_article.url }}" title="Next: {{ ntitle }}">{{ nv_title }}</a> »</li>
                 {% endif %}
             </ul>
+            {% include 'facebook_comment.html' %}
             </nav>
             {% endif %}
             {% endfor %}
