@@ -16,6 +16,24 @@
 {% endif %}
 {% endblock meta_tags_in_head %}
 
+{% block article_category %}
+<a class="brand" style='color:#a77777;' href="/categories.html#{{ category|replace(' ', '-')|e }}-ref">{{ article.category }}</a> 
+{% endblock %}
+{% block article_date %}
+<div style=" float: left; margin-top: 9px; color:#9e9e9e !important; text-transform: uppercase !important;">
+    <div style=" float: left; font-weight: bold; font-size: 10pt; margin-right: -4px; -webkit-transform: rotate(-90deg); ">
+        {{ article.date.strftime('%a') }} 
+    </div>
+    <div style=" font-weight: bold; font-size: 27pt; float: left; margin-right: 4px; ">
+        {{ article.date.strftime('%d') }} 
+    </div>
+    <div style=" font-weight: bold; line-height: 12px; float: left; margin-top: -2px; ">
+        {{ article.date.strftime('%b') }} 
+        <br>
+        {{ article.date.strftime('%Y') }} </div> 
+</div>
+{% endblock %}
+
 {% block content %}
 <article>
 <div class="row-fluid">
@@ -38,9 +56,11 @@
             {% endif %}
 
             {{ article.content }}
+            <div style='text-align:center; margin: 80px 0px;'>
+                <img src="/pagebreak.png" style="border:none; width:223px;" />
+            </div>
             {% include 'comments.html' %}
-            <aside>
-            <hr/>
+            <aside style='text-align:center;'>
             {% for an_article in dates %}
             {% if an_article.url == article.url %}
             {% set index = loop.index0 %}
@@ -78,7 +98,7 @@
             </aside>
         </div>
         <section>
-        <div class="span2" style="float:right;font-size:0.9em;">
+        <div class="span2" style="float:right;font-size:0.9em;display:none;">
             {% if article.date %} 
             <h4>Ditulis</h4>
             {% set day = article.date.strftime('%d')|int %}

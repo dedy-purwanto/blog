@@ -1,9 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic);
+
 body,html{
     height:100%;
 }
 
 h1, h2, h3, h4, h5, h5 {
-    font-family: Baskerville, Garamond, Georgia, "DejaVu Serif", "Times New Roman", Times, serif;
+    font-family: 'Libre Baskerville', Baskerville, Garamond, Georgia, "DejaVu Serif", "Times New Roman", Times, serif;
     font-weight: normal;
 }
     
@@ -143,47 +145,56 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
 }
 
 .article-content {
-    text-align:justify;
+    /* text-align:justify; */
     max-width:50em;
-    font-family: "PT Serif", Georgia, Times, "Times New Roman", serif;
+    font-family: 'Libre Baskerville', Baskerville, serif, "PT Serif", Georgia, Times, "Times New Roman", serif;
 }
 
 .article-content p{
     font-variant: normal;
     text-transform: none;
-    font-size: 1.1em;
+    font-size: 12pt;
     line-height: 1.6em;
     margin:20px 0px 20px 0px;
+    color: #000;
+}
+
+.article-content p::first-letter{
+    font-size: 14pt;
 }
 
 .article-content blockquote {
     padding: 0px 0px 0px 20px;
     margin: 20px 0px 20px 0px;
-    border-left: 5px solid rgb(100,100,100);
+    border-left: 9px solid rgb(233,233,233);
     margin-left: 2em;
 }
 
 .article-content blockquote p {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Libre Baskerville', Baskerville, serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-variant: normal;
     text-transform: none;
     font-size: 1.2em;
     line-height: 1.7em;
+    color: #545454;
 }
 
 .article-content ul {
-    list-style-type: circle;
-    font-size:1em;
+    list-style-type: disc;
+    /* font-size:1em; */
+    font-size: 12pt;
 }
 
 .article-content ol {
     list-style-type: decimal;
-    font-size: 1em;
+    /* font-size: 1em; */
 }
 
 .article-content li {
     margin:1px 0px 1px 20px;
     list-style-position: outside;
+    font-size: 13pt;
+    line-height: 19pt;
 }
 
 .article-content dl {
@@ -203,10 +214,10 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
 }
 
 .page_header h1 {
-    color:darkred;
-    padding: 5px 5px 15px 5px;
-    margin: 20px 0px 20px 0px;
-    border-bottom: 1px solid rgb(143, 134, 134);
+    color:#000 !important;
+    padding: 5px 5px 0px 0px;
+    margin: 20px 0px 0px 0px;
+    /* border-bottom: 1px solid rgb(143, 134, 134); */
     font-size: 3em;
     font-weight:normal;
 }
@@ -216,7 +227,8 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
 }
 
 .page_header h1 a {
-    color:darkred;
+    color:black;
+    font-weight:bold;
 }
 
 .page_header h1 a:hover {
@@ -291,7 +303,7 @@ h2 a:hover {
 }
 
 a {
-    color:rgb(56, 117, 215);
+    color:rgb(58, 58, 58);
 }
 
 /* archives */
@@ -395,3 +407,10 @@ dt:hover > a.headerlink {
     visibility: visible;
     text-decoration:none;
 }
+
+strong, b{
+    color: #000;
+    font-size: 13pt;
+}
+
+
