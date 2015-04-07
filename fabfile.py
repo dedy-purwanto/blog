@@ -52,8 +52,8 @@ def build(production=False):
 def deploy():
     build(production=True)
     with settings(
-            host_string='128.199.99.210', user='kecebongsoft', port=22, 
-            key_filename=None, host='128.199.99.210'):
+            host_string='kecebongsoft.com', user='kecebongsoft', port=22, 
+            key_filename=None, host='kecebongsoft.com'):
 
         rsync_project(
                 remote_dir='/home/kecebongsoft/applications/blog/build/',
