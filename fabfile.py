@@ -6,7 +6,8 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from slugify import slugify
 from urllib import urlretrieve
-from fabric.api import local, lcd, warn_only, env
+from fabric.api import local, env, settings
+from fabric.contrib.project import rsync_project
 
 env.BUILD_POOL = False
 
@@ -38,27 +39,26 @@ def build(production=False):
     sys.stdout.write("==== Build starts on %s ====\n" % datetime.now())
     args = "-r" if env.BUILD_POOL else ""
     if production:
-        settings = "data/settings-production.py"
+        settings_file = "data/settings-production.py"
     else:
-        settings = "data/settings.py"
+        settings_file = "data/settings.py"
 
-    command = "pelican . -o build/ -s %s %s" % (settings, args)
+    command = "pelican . -o build/ -s %s %s" % (settings_file, args)
     print command
     local(command)
     local("cp -r data/media/* build/")
     sys.stdout.write("==== Build ends on %s ====\n" % datetime.now())
 
 def deploy():
-    print "Deploying..\n"
-    build(production=True)
+    with settings(
+            host_string='128.199.99.210', user='kecebongsoft', port=22, 
+            key_filename=None, host='128.199.99.210'):
 
-    with lcd("build/"):
-        local("git add .")
-        local("git commit --all --message 'New build'")
-        local("git push")
-
-    local("git add build")
-    local("git commit --all --message 'New build'")
+        rsync_project(
+                remote_dir='/home/kecebongsoft/applications/blog/',
+                local_dir='build/',
+                delete=True, 
+                extra_opts="--delete-excluded -q")
 
 def import_tumblr():
     doc = BeautifulSoup(open('data/tumblr.xml', 'r'))
