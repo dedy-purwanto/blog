@@ -50,12 +50,13 @@ def build(production=False):
     sys.stdout.write("==== Build ends on %s ====\n" % datetime.now())
 
 def deploy():
+    build(production=True)
     with settings(
             host_string='128.199.99.210', user='kecebongsoft', port=22, 
             key_filename=None, host='128.199.99.210'):
 
         rsync_project(
-                remote_dir='/home/kecebongsoft/applications/blog/',
+                remote_dir='/home/kecebongsoft/applications/blog/build/',
                 local_dir='build/',
                 delete=True, 
                 extra_opts="--delete-excluded -q")
