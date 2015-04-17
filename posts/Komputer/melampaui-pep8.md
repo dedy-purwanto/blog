@@ -35,7 +35,7 @@ Selama ini PEP8 sudah cukup bisa mengakomodir serta "mendamaikan" berbagai perse
         alert("hello")
         alert("world")
         
-Tebak `alert` yang mana yang akan muncul duluan? *__Yang terakhir!__ Yup, karena _function_ yang tidak punya _curly brackets_ hanya akan mengevaluasi 1 statement setelahnya, make `alert("world")` akan terhitung sebagai _global scope_ yang akan dieksekusi pertama kali.
+Tebak `alert` yang mana yang akan muncul duluan? __Yang terakhir!__ Yup, karena _function_ yang tidak punya _curly brackets_ hanya akan mengevaluasi 1 statement setelahnya, make `alert("world")` akan terhitung sebagai _global scope_ yang akan dieksekusi pertama kali.
 
 Jadi kita sudah mengerti betapa _gawatnya_ dunia persilatan tanpa keberadaan PEP8, tidak hanya perbedaan gaya _coding_ yang bakal tergantung oleh _lead programmer_ atau proyeknya (syukur kalau programmernya waras), tapi penggunakan semantik python yang sangat baku ini juga membuat kita terhindar dari bencana seperti diatas.
 
@@ -47,7 +47,7 @@ Kenapa ini menjadi masalah penting? karena sindrom "mabuk PEP8" sudah membawa be
 * Mem PEP8-kan sebuah kode dianggap sesuatu yang produktif padahal tidak
 * Kode python baik yang privat maupun yang _open source_ seringkali dihinggapi _patch_ dan _commit_ PEP8 _fix_ yang datang dari orang berbeda, sehingga menyulitkan _blaming_
 
-Saya adalah salah satu orang yang sempat mabuk PEP8, hingga beberapa waktu yang lalu saya mulai melihat beberapa tulisan dan topik tentang PEP8 bukanlah segalanya, dan membuat kode kita PEP8 _compliant_ tidak otomatis menjadikannya Pythonic, dan pada titik akhir saya menemukan video dari Raymon Hettinger tentang [Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M), sungguh membuka pengetahuan saya tentang menulis kode yang tidak hanya PEP8-kompatibel, tapi juga Pythonic.
+Saya adalah salah satu orang yang sempat mabuk PEP8, hingga beberapa waktu yang lalu saya mulai melihat beberapa tulisan dan topik tentang PEP8 bukanlah segalanya, dan membuat kode kita PEP8 _compliant_ tidak otomatis menjadikannya Pythonic, dan pada titik akhir saya menemukan video dari [Raymond Hettinger tentang Beyond PEP8](https://www.youtube.com/watch?v=wf-BqAjZb8M), sungguh membuka pengetahuan saya tentang menulis kode yang tidak hanya PEP8-kompatibel, tapi juga Pythonic.
 
 Fokus utama dari video beliau adalah jangan sampai PEP8 membutakan pandangan kita terhadap _"gorilla in the code"_ atau "masalah yang lebih besar". Beliau membuka percakapan dengan memberikan contoh dari _Stroop effect_:
 
