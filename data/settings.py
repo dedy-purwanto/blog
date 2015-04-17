@@ -48,6 +48,7 @@ ARTICLE_EXCLUDES = (
 
 #DISQUS_SITENAME = 'kecebongsoft'
 THEME = 'themes/elegant'
+# THEME = 'themes/pelican-elegant-master'
 LANDING_PAGE_ABOUT = {
         'details': "Seorang programmer, suami dan ayah.  Saya terlahir di Samarinda, Indonesia; sekolah di SMKTI Airlangga Samarinda, lalu melanjutkan studi software engineering di INTI International University Malaysia. Saat ini tinggal di Kuala Lumpur, Malaysia.<br /><br /> Di sela-sela waktu saya menulis tentang komputer dan pemrograman, di waktu lain saya juga menulis tentang perspektif saya terhadap berbagai hal, serta kehidupan personal saya.<br /><br />Saya juga bisa ditemukan di <a href='http://facebook.com/kecebongsoft/'>Facebook</a>, <a href='http://twitter.com/kecebongsoft'>Twitter</a>, dan <a href='http://github.com/kecebongsoft/'>Github</a>. Blog ini dibuat dengan menggunakan Pelican dan Elegance Theme, semua tulisan disini adalah murni milik saya dan tidak mewakili pihak manapun.",
 }

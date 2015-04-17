@@ -145,7 +145,7 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
 }
 
 .article-content {
-    /* text-align:justify; */
+    text-align:justify;
     max-width:50em;
     font-family: 'Libre Baskerville', Baskerville, serif, "PT Serif", Georgia, Times, "Times New Roman", serif;
 }
@@ -163,20 +163,37 @@ article p a:hover, article ol a:hover, article div.article-content ul:not(.artic
     font-size: 14pt;
 }
 
-.article-content blockquote {
-    padding: 0px 0px 0px 20px;
-    margin: 20px 0px 20px 0px;
-    border-left: 9px solid rgb(233,233,233);
-    margin-left: 2em;
+blockquote a,
+article div.article-content ul:not(.articles-timeline):not(.related-posts-list) a {
+    border-bottom: thin dashed #A9A9A9;
+    color: #000;
 }
 
+.article-content blockquote {
+    border-left: 0;
+    margin: 20px 0 0 2em;
+    padding: 0 0 0 20px;
+}
+.article-content blockquote:before {
+    color: #646464;
+    content: '\f10d';
+    font: 18px FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: -2em;
+    text-decoration: inherit;
+    position:absolute;
+}
 .article-content blockquote p {
-    font-family: 'Libre Baskerville', Baskerville, serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-variant: normal;
-    text-transform: none;
-    font-size: 1.2em;
-    line-height: 1.7em;
-    color: #545454;
+    font-family: 'Helvetica Neue', Helvetica, Arial, Sans-Serif !important;
+    font-size: inherit !important;
+    font-variant: normal !important;
+    line-height: 1.7em !important;
+    text-transform: none !important;
+    font-weight: 300 !important;
+    font-size: 17px !important;
+    position:relative !important;
+    color: rgb(133, 133, 133) !important;
 }
 
 .article-content ul {
@@ -414,3 +431,7 @@ strong, b{
 }
 
 
+pre{
+    word-break: normal;
+
+}
