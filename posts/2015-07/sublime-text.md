@@ -3,7 +3,7 @@ date: 2015/07/08
 
 > Seseorang memperhatikan saya saat coding dari belakang, dilihatnya saya tidak menyentuh mouse sedikit pun. _"He is that guy"_ – mungkin itu batinnya. Memang saya sudah menggunakan vim selama bertahun-tahun, sampai akhirnya beberapa hari yang lalu saya mulai mencoba alternatif lain: SublimeText.
 
-Ya ya, saya memang sangat telat, SublimeText sudah dipuja-puja sejak bertahun-tahun lalu. Belakangan ini saya ingin mencari alternatif text-editor selain vim berhubung saya juga sedang [berganti setup](/2015/06/beralih-ke-windows-laptop.html).
+Ya ya, saya memang sangat telat, SublimeText sudah dipuja-puja sejak bertahun-tahun lalu. Belakangan ini saya ingin mencari alternatif text-editor selain vim berhubung saya juga sedang [berganti setup](/2015/07/beralih-ke-windows-laptop.html).
 
 Menurut saya vim masih tetap editor yang sangat-sangat powerful, dan alasan saya menggunakakn vim adalah system modal editing-nya yang sangat intuitif, vim grammar yang bisa dibuat jadi apa saja, serta integrasi kuat dengan terminal sehingga bisa digunakan dimana-mana.
 

@@ -1,5 +1,5 @@
 title: Beralih ke windows laptop
-date: 2015/06/07
+date: 2015/07/07
 
 Setelah berpindah perusahaan sekitar 4 bulan yang lalu, saya diberi satu unit laptop Dell Latiude E7440 (Windows 7). Saya cukup _galau_ dengan laptop ini. Disatu sisi laptop yang diberikan sangat bagus spesifikasi dan build quality-nya, terutama layar IPS dan keyboardnya yang jauh lebih superior dibanding Macbook Air saya, tapi disisi lain saya sangat tidak terbiasa menggunakan Windows.
 
