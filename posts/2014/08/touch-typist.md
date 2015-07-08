@@ -1,6 +1,7 @@
 title: Programmer dan mengetik
 slug: programmer-dan-mengetik 
 date: 8/06/2014
+tags: perspektif, komputer
 
 ## _Seorang programmer menemukan sebuah ide, lalu dia mulai menuliskan kode baris demi baris secara perlahan sambil melihat keyboardnya, satu jam kemudian dia berhenti dan membuang idenya, frustasi karena kecepatan mengetiknya tidak bisa mengejar kecepatannya berfikir. Banyak yang tidak menyadari kemampuan mengetik fasih bagi programmer sama halnya seperti mempunyai kaki yang sehat bagi seorang pelari._
 

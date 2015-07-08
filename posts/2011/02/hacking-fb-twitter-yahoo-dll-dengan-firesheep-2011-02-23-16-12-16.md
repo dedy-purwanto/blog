@@ -1,5 +1,6 @@
 title:Hacking FB, Twitter, Yahoo, dll dengan Firesheep
 date:2011-02-23 16:12:16
+tags: komputer
 
 Firesheep adalah plugin firefox yang bisa mencuri account Facebook, Twitter, Yahoo, dll. &#160;Anda cukup login di wifi terbuka seperti restoran/hotel/sekolah, jalankan Firesheep, dan semua Facebook/Twitter/Yahoo/dll jadi milik Anda. Modalnya hanya Firefox dan WinPcap.
 

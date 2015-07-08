@@ -1,5 +1,6 @@
 title: Places
 date: 20/11/2012
+tags: komputer
 
 A bit ambiguous, eh?. This time around I will talk about how I was struggled with choosing the _right_ hosting for this blog, I spent almost an entire week finding out which host can serve my way of blogging: static sites, manage-able with repository, and pushing the updates with commits / rysnc style.
 

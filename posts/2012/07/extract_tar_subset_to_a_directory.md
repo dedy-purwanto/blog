@@ -1,5 +1,6 @@
 Title: Extracting a subset of tar archive to a specific directory
 date: 20/07/2012
+tags: komputer
 
 I came across a task where I need to automatically download solr
 package and extract the files in example/ directory to a specific 

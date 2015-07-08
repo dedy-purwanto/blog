@@ -1,5 +1,6 @@
 title: Blog yang sustainable
 date: 21-01-2014
+tags: komputer
 
 Saya selalu menganggap blog adalah media yang penting, tapi tidak sepenting sekarang, ketika tanpa terasa, saya sudah ngeblog hampir 10 tahun, ya, sepuluh tahun!. 
 

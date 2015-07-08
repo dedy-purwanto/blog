@@ -1,5 +1,6 @@
 title:FlashDevelop color scheme
 date:2010-11-28 21:49:00
+tags: komputer
 
 <a href="/img/wordpress/2010-11-fd.jpg"><img src="/img/wordpress/2010-11-fd.jpg" width="500" /></a>
 

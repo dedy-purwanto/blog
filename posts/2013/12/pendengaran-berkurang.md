@@ -1,5 +1,6 @@
 title: Pendengaran Berkurang
 date: 30-12-2013
+tags: life
 
 Saya belum pernah merasakan menjadi orang berumur, yang kualitas pendengarannya mulai berkurang. Saya kadang berfikir tentang dampak psikologis yang dirasakan ketika salah satu indera kita berkurang kualitasnya. Kali ini saya dapat kesempatan tersebut.
 

@@ -1,5 +1,6 @@
 title:Cloud hosting sebagai bahan belajar
 date:2011-02-03 23:10:44
+tags: perspektif
 
 Harusnya saya melanjutkan tulisan tentang Channel API, tapi karena malam ini udah cukup lelah, saya pengen ngebahas hal ringan aja. Tulisan kali ini lebih ke pendapat pribadi saya. Selama belajar web development, ada hal-hal yang saya anggap sangat berguna untuk mengasah kemampuan kita. Tidak hanya mengajarkan kita tentang pengembangan web, tapi juga membuatnya menjadi layanan berskala besar dan reliable, dengan kualitas yang proffesional.
 

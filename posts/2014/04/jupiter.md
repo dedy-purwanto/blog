@@ -1,5 +1,6 @@
 title: Jupiter
 date: 14-04-2014
+tags: komputer
 
 ## _Saya sering memandang ke langit dan membayangkan jika asteroid sebesar gunung Kilimanjaro jatuh ke Bumi saat ini, teknologi apa yang kita miliki sekarang, yang dapat mencegah kehancuran masal tersebut?_ 
 

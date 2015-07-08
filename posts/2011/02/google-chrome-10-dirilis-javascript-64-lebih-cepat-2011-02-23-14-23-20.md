@@ -1,5 +1,6 @@
 title:Google Chrome 10 dirilis, Javascript 64% lebih cepat
 date:2011-02-23 14:23:20
+tags: komputer
 
 Versi Beta pertama dari
 <a href="http://kecebongsoft.wordpress.com/2008/09/03/review-google-chrome/">

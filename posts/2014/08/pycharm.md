@@ -1,6 +1,7 @@
 slug: pycharm
 title: Mencicipi PyCharm
 date: 31-08-2014
+tags: komputer
 
 ## _Jika vim adalah sebuah keyakinan, maka saya adalah pengikut yang paling sering ragu, tidak jarang saya melirik editor lain yang tampilannya lebih wah dan lebih nge-hype, dan kali ini saya tergoda untuk meninggalkan VIM dengan melirik PyCharm_
 

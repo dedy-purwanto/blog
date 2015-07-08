@@ -1,5 +1,6 @@
 title:Object picking pada Box2D
 date:2011-01-23 11:39:27
+tags: komputer
 
 Beberapa minggu lalu saya sempat membuat fungsi sendiri untuk mouse picking di Box2D. Singkatnya, saya punya beberapa object di Box2D yang akan mentrigger respon berbeda ketika diklik oleh mouse. Kasus utamanya bukan tentang repson yang berbeda, tapi bagaimana caranya bisa mendapatkan posisi mouse di Box2D, sedangkan satuan yang digunakan berbeda, yaitu pixel (untuk stage), dan meter (untuk box2D). Di demo Box2D ada contoh mekanisme Mouse-picking. Yaitu dengan membuat sebuah object box2D super kecil yang kemudian akan diset auto drag, lalu sisanya hanya tinggal mentrigger pengecekan koordinat object tersebut didalam event MouseDown().
 

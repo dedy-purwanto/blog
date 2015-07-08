@@ -1,5 +1,6 @@
 title: Berpindah server
 date: 2015-04-07
+python: komputer
 
 Beberapa minggu terakhir ini saya sedang gencar-gencarnya mencari server
 pribadi yg baru, karna berbagai alasan saya sudah tidak berminat lagi

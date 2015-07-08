@@ -1,5 +1,6 @@
 title:Amankan Account Facebook dari Hacker
 date:2011-02-26 03:05:25
+tags: komputer
 
 Facebook memiliki beberapa fitur keamanan yang bisa kita manfaatkan untuk menghindari serangan. Ini penting karna website seperti
 <a href="http://kecebongsoft.wordpress.com/2011/02/23/hacking-fb-twitter-yahoo-dll-dengan-firesheep/">

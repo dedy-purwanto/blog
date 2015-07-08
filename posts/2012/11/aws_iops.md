@@ -1,5 +1,5 @@
 Title: Optimizing I/O cost with provisioned IOPS
-Tags: AWS
+Tags: komputer
 date: 10/11/2012
 
 Recently I've been watching my monthly AWS bill and notice the I/O cost has been increased in the last few months. Note that at this point I've been receiving something around 220 million I/O request on my EBS volume. Earlier this week, Amazon Singapore did an introductory workshop nearby our office and introduces provisioned IOPS. I didn't really paid any attention to it, but it turned out really handy.

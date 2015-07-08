@@ -1,5 +1,6 @@
 title:Pilih-pilih Wordpress Blog Client
 date:2011-02-27 22:15:36
+tags: komputer
 
 <p>
  ![image](/img/wordpress/2011-02-wordpresslogo1.png)

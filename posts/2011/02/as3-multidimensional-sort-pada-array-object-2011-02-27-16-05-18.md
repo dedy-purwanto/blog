@@ -1,5 +1,6 @@
 title:AS3: Multidimensional Sort pada Array Object.
 date:2011-02-27 16:05:18
+tags: komputer
 
 Terkadang ada kondisi dimana kita mempunyai sebuah array yang isinya object, lalu kita ingin melakukan sorting array tersebut, &#160;yang parameternya adalah member object didalam array.
 

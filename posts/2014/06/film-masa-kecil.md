@@ -1,5 +1,6 @@
 title: Film masa kecil
 date: 06-12-2014
+tags: komputer
 
 Salah satu faktor yang membentuk diri saya sebagai seseorang yang imaginatif adalah film yang saya tonton semasa kecil, film-film yang saya tonton semasa itu adalah film-film sci-fi anak-anak seperti Invisible Dad, Jurrasic Park, Starship Troopers dan sejenisnya yang membawa angan-angan ke hal-hal yang bisa dicapai karakter di film-film tersebut. Spiderman, bisa membuat jaring laba-laba melalui sebuah alat canggih di tangannya, proffesor di film Jurrasic Park (kartun), bisa membuat sebuah robot yang sangat canggih, Invisible Dad, bisa membuat game dalam sehari dan membuat alat canggih dari perangkat elektronik biasa.
 

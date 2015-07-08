@@ -1,5 +1,6 @@
 title: Nikmatnya Bertanya
 date: 08-12-2014
+tags: perspektif
 
 _Malu bertanya, sesat dijalan. Di jaman yang penuh dengan informasi seperti sekarang ini, masih banyak saja yang tidak mengetahui bahwa mencari dan bertanya adalah cara yang paling efektif untuk mendapatkan pengetahuan sebanyak-banyaknya. Saya pun adalah tipe yang sebelumnya malu bertanya, sebenarnya apa yang ada dibenak kita ketika ingin bertanya?_
 

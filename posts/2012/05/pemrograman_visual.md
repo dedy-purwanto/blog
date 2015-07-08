@@ -1,5 +1,6 @@
 title: Pemrograman Visual
 date: 05/08/2012
+tags: perspektif
 
 Beberapa bulan lalu saya sering cerita via chat ama temen tentang tugas
 kuliahnya di kampus \*tiiiit\*, beberapa kali dia mention  tentang tugas

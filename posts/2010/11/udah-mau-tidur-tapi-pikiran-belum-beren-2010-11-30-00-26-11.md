@@ -1,5 +1,6 @@
 title:Udah mau tidur, tapi pikiran belum beren...
 date:2010-11-30 00:26:11
+tags: life
 
 Udah mau tidur, tapi pikiran belum berenti berjalan. Tadi sempat design prototype baru, ternyata bener-bener sulit, design game mechanics yang jauh dari mainstream memang selalu challenging dan rumit, banyak sekali trade-offs baru yang ditemukan setiap kali memasukan elemen baru, dan jadi lebih rumit lagi karena tidak ada referensi apapun. Tapi disinilah kreatifitas benar-benar diuji, meskipun terkadang membuat frustasi.
 

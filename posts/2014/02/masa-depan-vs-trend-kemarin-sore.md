@@ -1,5 +1,6 @@
 title: Masa depan vs trend kemarin sore
 date: 21/02/2014
+tags: komputer, perspektif
 
 Akhirnya datang juga. Saya adalah salah satu yang paling penasaran dengan langkah [Google membeli selusin](http://gizmodo.com/a-humans-guide-to-googles-many-robots-1509799897) perusahaan dan institusi robotika: Schaft (tim robot Jepang pemenang kontes DARPA), Industrial Perception (3D vision robotics), Redwood Robotics (terfokus di motor functions), Boston Dynamics (ultra-responsive humanoid robotics), dan seabrek perusahaan robotics lainnya. Beberapa bulan sebelumnya, Google juga berinvestasi biotech startup seperti Amidab dan Calico, yang visi-misinya adalah untuk better-living seperti anti-aging dan obat berbasis protein. Sedangkan untuk akuisisi perusahaan robotika, hingga pada waktu Google membeli salah satu selebriti di dunia robotika: Boston Dynamics, Google masih bungkam tentang apa yang akan perusahaan raksaksa dengan aset lebih dari 100 trillion ini lakukan terhadap selusin perusahaan robotika yang dibelinya. 
 

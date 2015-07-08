@@ -1,5 +1,6 @@
 title:Apartment Tale part 3
 date:2010-11-22 0:10:19
+tags: life
 
 And that's it, thank God. The owner finally understand that I'm just a normal student in here, I don't want to get any trouble with any one. He will get here in few days and make a police report for illegal entry. 
 

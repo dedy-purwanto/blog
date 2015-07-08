@@ -1,5 +1,6 @@
 title:Gw dan gathering
 date:2012-02-14 7:10:44
+tags: perspektif
 
 <p>
 Waktu SMA dulu, meskpun udah suka ama programming, tapi gw tinggal di daerah yg ITnya belum terlalu rame, sehingga event-event kayak gathering, cuman bisa gw baca beritanya di pulau2 jawa, atau gathering lokal dengan tema yang umum, itupun jarang.

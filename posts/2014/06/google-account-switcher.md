@@ -1,5 +1,6 @@
 title: Google Account Switcher
 date: 06-01-2014
+tags: komputer
 
 Saya sudah bertahun-tahun menggunakan email, bagi saya email adalah salah satu medium paling efektif untuk berkomunikasi. Sudah berbagai macam layanan email yang saya gunakan. Saya masih ingat email pertama saya ada di plasa.com, Yahoo!-nya indonesia di tahun 2000an dulu. Kemudian berpindah ke Yahoo!, Hotmail, dan banyak lagi, sampai akhirnya berhenti di Gmail.
 

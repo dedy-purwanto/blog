@@ -1,5 +1,6 @@
 title:Future Pinball
 date:2010-11-24 8:27:32
+tags: komputer
 
 <p>Today I got so excited trying Future Pinball. Future Pinball is a pinball machine simulator where you can design your own table and play it. There are many features, such as scripting, customization, etc. I consider the graphic was good, high resolution texture, shaders, etc. You can also download the existing tables from their website, or other fanbase site.</p>&#13;
 <p><img height="380" width="540" src="http://www.blindmankind.tecnopinball.org/3A_img/i_3.jpg" />

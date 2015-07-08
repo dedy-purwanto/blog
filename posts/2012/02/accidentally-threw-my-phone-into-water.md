@@ -1,5 +1,6 @@
 title:Accidentally threw my phone into water
 date:2012-02-18 21:07:46
+tags: life
 
 As if I don't have enough record of carelessness with my Samsung Galaxy S2, dropped it thousands times, and have to praise the lord about how lucky I am that the phone still working fine. Today, I accidentally dropped it into a bucket full of water.
 

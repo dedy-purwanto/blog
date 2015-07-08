@@ -1,6 +1,7 @@
 title: Takut Email
 slug: email
 date: 13-03-2014
+type: perspektif
 
 ## _Sebagai medium komunikasi yang berumur lebih dari 3 dekade, email masih menjadi benda yang asing bagi kebanyakan orang — terutama para remaja. Gelombang media sosial dan instant messaging ikut membuat keberadaan email semakin terbenam. Apa kini email sudah bukan jamannya lagi? apakah keberadaan email hanya sebatas untuk mereka para senior saja?_
 

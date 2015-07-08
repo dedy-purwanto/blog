@@ -1,5 +1,6 @@
 title:Asah Kemampuan Software Development
 date:2011-02-28 14:30:04
+tags: perspektif
 
 <p>
  ![image](/img/wordpress/2011-02-fertility_egg1.png)

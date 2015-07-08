@@ -1,5 +1,6 @@
 title: iTerm2 dan produktifitas
 date: 11-01-2014
+tags: komputer
 
 Saya salah satu pengguna berat keyboard shortcuts dan tiling windows untuk berbagai macam alasan, salah satunya adalah meningkatkan produktifitas. Sayangnya, karena resolusi layar yang hanya < 1080, tiling/window manager seperti [spectacle](http://spectacleapp.com) atau [slate](https://github.com/jigish/slate) tidak begitu berguna, tapi untuk terminal saya masih bisa mengatasinya dengan split panes. Sebagai pengguna berat terminal, saya selalu mengevaluasi terminal yang saya gunakan dalam hal kemudahan, performa, estetika dan ekstensibilitas.
 

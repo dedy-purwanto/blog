@@ -1,6 +1,7 @@
 title: Ponsel Pintar
 date: 07-04-2014
 slug: ponsel-pintar
+tags: perspektif
 
 ## _Lalu lintas di jalan raya sudah menyepi, waktu menunjukan pukul 3 pagi. Belasan halaman web tentang smartphone yang gagal charge  masih terbuka di laptop sembari saya sesekali mengutak-atik smartphone saya yang sudah mati berhari-hari. Saya mulai sering bertanya apakah saya benar-benar butuh smartphone?_
 

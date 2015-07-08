@@ -1,6 +1,7 @@
 slug: penjelas-hebat
 title: Penjelas Hebat
 date: 12-04-2014
+tags: perspektif
 
 ## _Seringkali ketika mencoba menjelaskan hal-hal kompleks kepada teman atau kolega, saya mendapati diskusi kami berakhir dengan kebingungan, apa selama ini ada yang salah dengan cara saya berkomunikasi?_
 

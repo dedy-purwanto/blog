@@ -1,5 +1,6 @@
 title: Berganti Klien Email
 date: 28/01/2014
+tags: komputer
 
 Saya adalah pengguna GMail, seperti pengguna GMail yang lainnya, saya menggunakan GMail web-client. Saya masih ingat kira-kira tahun 2007 lalu ketika pertama kali mendaftar GMail, interface GMail sangat polos dan ketika itu saya masih lebih suka interface Yahoo! Mail. Setelah beberapa tahun berpindah-pindah antar  GMail dan Yahoo!, saya mulai merasakan interface, GMail meskipun lebih polos, ternyatak jauh lebih solid dan konsisten dibanding Yahoo!, saya pun perlahan memindahkan semua aktifitas email saya dari Yahoo! ke GMail.
 

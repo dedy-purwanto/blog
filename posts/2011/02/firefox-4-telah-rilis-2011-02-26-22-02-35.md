@@ -1,5 +1,6 @@
 title:Firefox 4 telah rilis
 date:2011-02-26 22:02:35
+tags: komputer
 
 ![image](/img/wordpress/2011-02-ff4.png)
 Firefox 4 Beta 12 telah

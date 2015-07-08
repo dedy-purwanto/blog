@@ -1,5 +1,6 @@
 title: Melampaui PEP8
 date: 2015/04/18
+tags: komputer
 
 > Seorang programmer bercerita kepada temannya tentang kode yang dia tulis selama seminggu lebih, tentang seberapa kompleks dan canggihnya algoritma yang dia buat. Lalu dia membuka laptopnya dan menunjukan isi dari salah satu _source file_, temannya dengan antusias melirik dan mulai _scroll_ perlahan. Tidak ingin kalah "macho", dia dengan _pedenya_ bilang "Kurang spasi nih antara _classnya_".
 

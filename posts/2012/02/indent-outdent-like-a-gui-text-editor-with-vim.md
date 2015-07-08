@@ -1,5 +1,6 @@
 title:Indent / outdent like a GUI text editor with VIM 
 date:2012-02-12 7:19:48
+tags: komputer
 
 Or, precisely GVIM, or VIM will just do, I don't know, I think it should also work on VIM (tried it on SSH last time and it works).
 

@@ -1,6 +1,7 @@
 title: Server Murah Meriah
 slug: server-murah-meriah
 date: 2015-04-09
+tags: komputer
 
 Ini adalah perkembangan dari tes server [murah meriah di Digital
 Ocean](/2015/04/berpindah-server.html), pada dasarnya saya ingin 

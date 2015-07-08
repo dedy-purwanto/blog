@@ -1,5 +1,6 @@
 title: Django: Abstraksi model dan domain
 date: 2015/04/17
+tags: komputer
 
 > _"Web framework for perfectionsist with deadline"_ adalah slogan dari Django, web framework berbasis Python. Slogan ini biasanya benar; sangat mudah dan cepat membuat website dengan Django, tapi belakangan ini saya merasa, seringkali ketika websitenya mulai kompleks, mulai rumit untuk menambahkan atau mengubah kode yang menggunakan Django atau framework pada umumnya
 

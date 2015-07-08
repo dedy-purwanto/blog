@@ -1,5 +1,6 @@
 title: Managing SSH keys
 date: 17/11/2012
+tags: komputer
 
 All this time, I've been managing my own SSH keys pretty badly, at least that's how I see it. I have different SSH key for different machine, some with passphrase, others without. 
 

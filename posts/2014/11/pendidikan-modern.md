@@ -1,5 +1,6 @@
 title: Pendidikan Modern
 date: 11-03-2014
+tags: perspektif
 
 Malam ini ketika saya sedang bersantai dan lurking di facebook, saya menemukan tautan essay dari seorang dosen di Universitas Pancasila Indonesia, yang menulis bahwa mahasiswanya menggunakan cara belajar yang sama seperti 17 tahun lalu, sangat outdated dan tidak efektif. Beliau kemudian mengemukakan tools dan metodologi yang lebih modern seperti penggunaan [VCS](http://en.wikipedia.org/wiki/Revision_control) dan social media sebagai bahan belajar. Saya setuju dengan sebagian besar poin yang beliau kemukakan, namun saya terperangkap dengan kata-kata _stagnan selama 17 tahun_, penggunaan teknologi serta relevansi dan impactnya terhadap sistem pendidikan modern.
 

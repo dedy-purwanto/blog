@@ -1,5 +1,6 @@
 title: Passwords
 date: 21-11-2012
+tags: komputer
 
 Today I'm trying out <a href='https://github.com/defunkt/gist'>a command line interface for Github's Gist</a>, it's written in Ruby, but I guess that's okay, for me, personally. No, I want to talk about something else that bothers me, before you can send your stuff to Gist, you have to tell the program which Github account you are using, this can be done by specifying your Github username, and your password, your raw, naked, password. 
 

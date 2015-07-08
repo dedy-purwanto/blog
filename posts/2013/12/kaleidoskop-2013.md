@@ -1,5 +1,6 @@
 title: Kaleidoskop 2013
 date: 31-12-2013
+tags: life
 
 Tahun 2013 tinggal tersisa 1 hari lagi. Sejujurnya, saya bukan tipe orang yang punya objektif disetiap pergantian tahun. Saya bahkan tidak peduli dengan resolusi pergantian tahun. Saya lebih suka berfikir perubahan harus dilakukan tanpa menunggu momen apapun.
 

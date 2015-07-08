@@ -1,5 +1,6 @@
 Title: puppet-sentry
 date: 08/08/2012
+tags: komputer
 
 When I'm tasked to cast a new installation of sentry with puppet, I was
 faced with problem that sentry need to interactively ask a superuser

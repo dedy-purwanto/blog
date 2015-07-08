@@ -1,5 +1,6 @@
 title: SublimeText
 date: 2015/07/08
+tags: komputer
 
 > Seseorang memperhatikan saya saat coding dari belakang, dilihatnya saya tidak menyentuh mouse sedikit pun. _"He is that guy"_ – mungkin itu batinnya. Memang saya sudah menggunakan vim selama bertahun-tahun, sampai akhirnya beberapa hari yang lalu saya mulai mencoba alternatif lain: SublimeText.
 

@@ -1,5 +1,6 @@
 title:Changing "gray area" at the side of GVIM
 date:2011-10-16 20:15:00
+tags: komputer
 
 I've faced similar case for several times, when I maximized my GVIM, it shows gray
 area at the bottom and right side of the screen. After some research, I found out

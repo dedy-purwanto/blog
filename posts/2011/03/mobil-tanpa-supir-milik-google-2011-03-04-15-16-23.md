@@ -1,5 +1,6 @@
 title:Mobil Tanpa Supir milik Google
 date:2011-03-04 15:16:23
+tags: komputer
 
 <p>
  <a href="http://kecebongsoft.files.wordpress.com/2011/03/google-logo-transparent.png">

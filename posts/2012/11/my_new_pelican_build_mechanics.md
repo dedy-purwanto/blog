@@ -1,5 +1,6 @@
 title: My new Pelican build mechanics
 date: 17/11/2012
+tags: komputer
 
 As you know, my blog is powered by a python static blog engine, named Pelican. I really like it in many ways: simplicity, _geekyness_, and hostings. Yes, hostings, this blog is hosted with the help of Github user pages, enabling you to create a static website through repository, and accessible with your Github username, plus you don't have to think about reliability and scaling, Github will handle it for you.
 

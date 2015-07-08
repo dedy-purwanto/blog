@@ -1,5 +1,6 @@
 title: Keyboard mekanikal
 date: 13-01-2014
+tags: komputer
 
 Keyboard adalah salah satu peripheral yang saya anggap sangat penting, saya menghabiskan sebagian besar waktu saya di komputer [dengan menggunakan terminal](/2014/01/iterm2-dan-produktifitas.html), saya juga sudah membuat berbagai shortcuts di aplikasi iTerm2, vim, OSX, dll, semua agar tangan saya bisa tetap berada di [home rows](http://en.wikipedia.org/wiki/Touch_typing#Home_row), jadi rasanya aneh kalau saya belum pernah menulis tentang keyboard sebelum ini.
 

@@ -1,5 +1,6 @@
 title:Mengenal Google Channel API - Part 2
 date:2011-01-30 23:26:07
+tags: komputer
 
 Setelah mengenal konsep dasar dari
 <a href="http://kecebongsoft.wordpress.com/2011/01/29/mengenal-google-channel-api-part-1/">

@@ -1,5 +1,6 @@
 title:Bye bye Facebook, and Yahoo Mail
 date:2011-10-24 7:29:00
+tags: life
 
 Udah belakangan ini nggak update facebook lagi, paling cuman komen status2 temen yg menarik aja. Udah males ama FB, dulu sempet mikir FB nggak bakal jadi another MySpace atau Friendster, ternyata salah besar. FB sekarang dipenuhin sampah2 orang jualan + orang2 yang alay nya minta ampun. Digigit semut dikit aja nangis di FB, baru selesai cucian piring aja langsung statusnya kayak orang abis mengarungi lautan : "hidup ini penuh cobaan". Dan paling banter soal cinta-cintaan yg sebenernya saya jg ngga peduli ini orang mo patah hati ato lagi kangen2an.
 

@@ -1,5 +1,6 @@
 title: Menjadi Ayah
 date: 2014-12-05
+tags: life
 
 _Banyak laki-laki di usia muda yang tidak bisa membayangkan bagaimana rasanya menjadi seorang ayah, termasuk saya. Sosok ayah dimata saya adalah seseorang yang berumur 30an tahun, berwibawa dan posisinya sudah sangat mapan, sementara di usia saya yang masih 25, fikiran saya masih lebih banyak berkutat di pekerjaan, saya belum tahu perasaan apa yang harus saya miliki sebagai seorang ayah. Takut, gugup, bangga, apalagi?_
 

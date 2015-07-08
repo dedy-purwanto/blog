@@ -1,5 +1,6 @@
 title:Hacking Theme Wordpress (Vigilance)
 date:2011-02-22 02:12:55
+tags: komputer
 
 (
 <a href="http://kecebongsoft.wordpress.com/2011/02/22/hacking-vigilance-wordpress-theme/">
