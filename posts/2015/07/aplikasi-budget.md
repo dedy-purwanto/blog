@@ -1,7 +1,7 @@
 title: Aplikasi Budget
 date: 2015-07-23
 
->> Meskipun tidak pernah dibahas sama sekali di blog ini, saya adalah salah satu pemerhati aplikasi budgeting dan artikel-artikel _personal finance_ pada umumnya. Bisa dibilang aplikasi budgeting adalah jenis aplikasi yang efeknya sangat besar pada kehidupan pribadi saya. Mulai dari mahasiswa yang _kere_ sampai mulai bekerja dan akhirnya terlepas dari kehidupan _paycheck-to-paycheck_, kebanyakan adalah faktor dari ketelatenan mengatur keuangan dari aplikasi budgeting.
+> Meskipun tidak pernah dibahas sama sekali di blog ini, saya adalah salah satu pemerhati aplikasi budgeting dan artikel-artikel _personal finance_ pada umumnya. Bisa dibilang aplikasi budgeting adalah jenis aplikasi yang efeknya sangat besar pada kehidupan pribadi saya. Mulai dari mahasiswa yang _kere_ sampai mulai bekerja dan akhirnya terlepas dari kehidupan _paycheck-to-paycheck_, kebanyakan adalah faktor dari ketelatenan mengatur keuangan dari aplikasi budgeting.
 
 Aplikasi budgeting, atau _personal finance_ (PF), pada umumnya adalah aplikasi yang bisa membantu kita mengatur keuangan dengan berbagai sistem. Di aplikasi tersebut kita bisa menaruh berapa pemasukan dan apa saja pengeluaran kita, lalu mengatur seberapa besar uang yang kita alokasikan untuk kegiatan tertentu, seperti belanja harian, travelling, tagihan bulanan, hingga bayar cicilan.
 
