@@ -37,9 +37,25 @@
         <link rel="icon" href="{{ SITEURL }}/theme/images/apple-touch-icon-144x144.png" />
         {% include 'feeds.html' %}
         {% include 'analytics.html' %}
+        <script>
+          window.fbAsyncInit = function() {
+            FB.init({
+              appId      : '671178226359270',
+              xfbml      : true,
+              version    : 'v2.4'
+            });
+          };
+
+          (function(d, s, id){
+             var js, fjs = d.getElementsByTagName(s)[0];
+             if (d.getElementById(id)) {return;}
+             js = d.createElement(s); js.id = id;
+             js.src = "//connect.facebook.net/en_US/sdk.js";
+             fjs.parentNode.insertBefore(js, fjs);
+           }(document, 'script', 'facebook-jssdk'));
+        </script>
     </head>
     <body>
-        {% include 'facebook_comment_js.html' %}
         <div id="content-sans-footer">
         <div class="navbar navbar-static-top">
             <div class="navbar-inner">
