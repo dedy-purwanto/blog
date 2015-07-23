@@ -5,7 +5,7 @@
 {% endblock title %}
 
 {% block content %}
-<div class="row-fluid">
+<div class="row-fluid span8 offset2">
     {% if LANDING_PAGE_ABOUT and LANDING_PAGE_ABOUT.title %}
     <header class="page_header span12">
     <h1><a href="{{ SITEURL }}">{{ LANDING_PAGE_ABOUT.title }}</a></h1>
@@ -14,7 +14,7 @@
 
     <div class="row-fluid">
         {% if LANDING_PAGE_ABOUT and LANDING_PAGE_ABOUT.details %}
-        <div class="span8">
+        <div class="span12">
             <header>
             <h1 id="about-me">Tentang Saya</h1>
             </header>
@@ -52,7 +52,7 @@
             {% if loop.index0 < RECENT_ARTICLES_COUNT %}
             <ul class="list-all-articles">
                 <li>
-                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {%if article.subtitle %} <small> {{ article.subtitle }} </small> {% endif %} </a> 
+                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} {%if article.subtitle %} <small> {{ article.subtitle }} </small> {% endif %} </a>
                 <time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
                 </li>
             </ul>
