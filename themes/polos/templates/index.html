@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content_title %}{% endblock %}
+{% block content %}
+    <ul>
+        {% for article in articles %}
+        {% if loop.index < 8 %}
+            <li><a href="{{ article.url }}">{{ article.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+{% endblock %}

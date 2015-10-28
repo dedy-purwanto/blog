@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}
+    All writings - {{ super() }}
+{% endblock title %}
+
+{% block content %}
+
+    <ul class="list-all-articles">
+        {% for article in dates %}
+            <li>
+                <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} ({{ article.date.strftime('%d %b %Y') }})</a>
+            </li>
+        {% endfor %}
+    </ul>
+
+{% endblock content %}

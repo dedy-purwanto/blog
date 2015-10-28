@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %} {{ article.title }} · {{ super() }} {% endblock title %}
+
+{% block content %}
+    <h2>{{ article.title }}</h2>
+    <p><i>{{ article.date.strftime('%d %b %Y') }}</i></p>
+    <p>{{ article.content }}</p>
+
+    <br />
+    <br />
+    <br />
+    <div class="fb-like" data-share="true" data-width="700"
+         data-show-faces="true"></div>
+    <div class="fb-comments" data-share="true" data-width="700"
+         data-show-faces="true" style="float: left;"></div>
+    <div style="clear:both"></div>
+{% endblock content %}
+

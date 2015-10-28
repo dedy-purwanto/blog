@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+    {%  if FEED_RSS %}
+        <link rel="application/atom+xml" href="{{ SITEURL }}/{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }} RSS Feed">
+    {%  endif %}
+    <meta property="fb:admins" content="kecebongsoft"/>
+    <meta property="fb:app_id" content="427446243980802"/>
+    <style>
+        body, p {
+            font-family: 'Consolas', 'Monospaced';
+        }
+
+        @media screen and (min-width: 800px) {
+            body {
+                width: 30%;
+            }
+        }
+    </style>
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function (d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s);
+    js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=427446243980802";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<h1><a href="/">Dedy Purwanto</a></h1>
+{% block content %}
+{% endblock %}
+{% include 'analytics.html' %}
+<hr />
+<small>
+    &copy; Dedy Purwanto
+    |
+    <a href="/archives.html">Archives</a>
+</small>
+</body>
+</html>
