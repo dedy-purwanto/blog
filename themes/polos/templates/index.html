@@ -1,9 +1,11 @@
 {% extends "base.html" %}
 {% block content_title %}{% endblock %}
 {% block content %}
+    Computer and personal rambling. All the writings are my own views and doesn't
+    represent any other entity.
     <ul>
         {% for article in articles %}
-        {% if loop.index < 8 %}
+        {% if loop.index < 18 %}
             <li><a href="{{ article.url }}">{{ article.title }}</a></li>
         {% endif %}
     {% endfor %}

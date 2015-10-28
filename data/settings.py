@@ -5,7 +5,7 @@
 
 AUTHOR = u"Dedy Purwanto"
 SITENAME = u"Dedy Purwanto"
-SITEURL = 'http://localhost:9000'
+SITEURL = 'http://dev:9005'
 SITESUBTITLE = u"&copy;2004-2015 Dedy Purwanto"
 
 TIMEZONE = 'Asia/Kuala_Lumpur'
