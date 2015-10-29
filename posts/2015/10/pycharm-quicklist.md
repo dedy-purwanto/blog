@@ -9,17 +9,17 @@ order and have it triggered by your hand conveniently like:
     ,rd # Run debugging server
     ,fu # Run file browser
 
-As you can see, in vim you can have all this nice key sequence to trigger actions,
-and you finger stays in the home row, thanks to vim different modes. But it's 
+As you can see, in vim your can have all this nice key sequence to trigger actions,
+and you finger stays in the home row, thanks to vim's different modes. But it's 
 not like that in IDE:
     
     Ctrl+Shift+N # Find files
     Ctrl+N # Find class
     Shift+Esc # Some other commands
     
-Not only they are far from each other, it also often twisted your fingers in many
-ways, I have complained before that I have pinky problems, I have to twist my
-fingers just to get to some actions. PyCharm is no difference, the keymap
+Not only they are far from each other, it also often twist your fingers in many
+ways, I have complained before that I have [pinky problems](/2015/10/pinky-problem.html), 
+I have to twist my fingers just to get to some actions. PyCharm is no difference, the keymap
 are so many and not only sometimes it hurts, I often forget which is which.
 
 So to simplify, PyCharm have this thing called Quick List, it lets you list
@@ -36,5 +36,5 @@ below:
 I'm planning to use this for sometime and we'll see how it improves the workflow.
 At least right now the thing I like about it is that now I can see the action name
 I want to trigger instead of using the shortcuts and triggering the wrong commands,
-or using the global search which sometimes show too many results or I have to type
+or using the global search which sometimes show too many results and I have to type
 longer keyword to get to it.
